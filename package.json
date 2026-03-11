@@ -1,0 +1,19 @@
+{
+  "name": "qa-portafolio-web",
+  "version": "1.0.0",
+  "description": "Portfolio QA - Cucumber + Playwright + JMeter",
+  "scripts": {
+    "test": "npx cucumber-js e2e/features/**/*.feature --require e2e/steps/**/*.js --exit",
+    "test:report": "npx cucumber-js e2e/features/**/*.feature --require e2e/steps/**/*.js --format html:reports/report.html --exit && cmd /c start reports\\report.html"
+  },
+  "cucumber": {
+    "paths": ["e2e/features/**/*.feature"],
+    "require": ["e2e/steps/**/*.js"],
+    "format": ["progress-bar"]
+  },
+  "devDependencies": {
+    "@cucumber/cucumber": "^11.2.0",
+    "chai": "^5.2.0",
+    "playwright": "^1.50.1"
+  }
+}
