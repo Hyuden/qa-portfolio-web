@@ -48,10 +48,12 @@ Al ejecutar `npm run test:report` se genera automáticamente un reporte HTML en 
 
 ## ✅ Casos de prueba
 
-| Escenario | Descripción | Estado |
-|-----------|-------------|--------|
-| Login exitoso | Verifica acceso con credenciales válidas | ✅ |
-| Login fallido | Verifica mensaje de error con credenciales incorrectas | ✅ |
+| Feature | Escenario | Tipo | Estado |
+|---------|-----------|------|--------|
+| Login | Login exitoso con credenciales válidas | E2E | ✅ |
+| Login | Login fallido con credenciales incorrectas | E2E | ✅ |
+| API | Obtener lista de usuarios | API | ✅ |
+| API | Obtener usuario específico | API | ✅ |
 
 ## 👨‍💻 Autor
 
