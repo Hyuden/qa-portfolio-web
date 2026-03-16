@@ -1,0 +1,1846 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1773685294447,216,Get usuario Inexistente - 404,404,Not Found,Unhappy Path test 3-1,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[404]]]
+
+****** comparison: [[[   ]]]
+
+/",1201,145,1,4,https://jsonplaceholder.typicode.com/%20/users/99999,216,0,182
+1773685294447,217,GET /users,200,OK,API Performance Test 1-1,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[200]]]
+
+****** comparison: [[[   ]]]
+
+/",6866,135,2,4,https://jsonplaceholder.typicode.com/users,216,0,182
+1773685294666,30,GET /users,200,OK,API Performance Test 1-1,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[200]]]
+
+****** comparison: [[[   ]]]
+
+/",6866,135,2,4,https://jsonplaceholder.typicode.com/users,30,0,0
+1773685294618,89,GET /users,200,OK,API Performance Test 1-2,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[200]]]
+
+****** comparison: [[[   ]]]
+
+/",6866,135,2,4,https://jsonplaceholder.typicode.com/users,88,0,56
+1773685294696,31,GET /users,200,OK,API Performance Test 1-1,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[200]]]
+
+****** comparison: [[[   ]]]
+
+/",6866,135,2,4,https://jsonplaceholder.typicode.com/users,30,0,0
+1773685294707,33,GET /users,200,OK,API Performance Test 1-2,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[200]]]
+
+****** comparison: [[[   ]]]
+
+/",6866,135,2,4,https://jsonplaceholder.typicode.com/users,32,0,0
+1773685294728,30,GET /users,200,OK,API Performance Test 1-1,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[200]]]
+
+****** comparison: [[[   ]]]
+
+/",6866,135,2,4,https://jsonplaceholder.typicode.com/users,30,0,0
+1773685294740,33,GET /users,200,OK,API Performance Test 1-2,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[200]]]
+
+****** comparison: [[[   ]]]
+
+/",6866,135,2,4,https://jsonplaceholder.typicode.com/users,31,0,0
+1773685294758,30,GET /users,200,OK,API Performance Test 1-1,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[200]]]
+
+****** comparison: [[[   ]]]
+
+/",6866,135,2,4,https://jsonplaceholder.typicode.com/users,30,0,0
+1773685294773,32,GET /users,200,OK,API Performance Test 1-2,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[200]]]
+
+****** comparison: [[[   ]]]
+
+/",6866,135,1,3,https://jsonplaceholder.typicode.com/users,31,0,0
+1773685294805,32,GET /users,200,OK,API Performance Test 1-2,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[200]]]
+
+****** comparison: [[[   ]]]
+
+/",6866,135,2,4,https://jsonplaceholder.typicode.com/users,31,0,0
+1773685294817,95,GET /users,200,OK,API Performance Test 1-3,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[200]]]
+
+****** comparison: [[[   ]]]
+
+/",6866,135,1,4,https://jsonplaceholder.typicode.com/users,94,0,61
+1773685294912,34,GET /users,200,OK,API Performance Test 1-3,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[200]]]
+
+****** comparison: [[[   ]]]
+
+/",6866,135,1,4,https://jsonplaceholder.typicode.com/users,34,0,0
+1773685294947,36,GET /users,200,OK,API Performance Test 1-3,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[200]]]
+
+****** comparison: [[[   ]]]
+
+/",6866,135,1,4,https://jsonplaceholder.typicode.com/users,36,0,0
+1773685294984,31,GET /users,200,OK,API Performance Test 1-3,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[200]]]
+
+****** comparison: [[[   ]]]
+
+/",6866,135,1,4,https://jsonplaceholder.typicode.com/users,31,0,0
+1773685295016,34,GET /users,200,OK,API Performance Test 1-3,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[200]]]
+
+****** comparison: [[[   ]]]
+
+/",6866,135,2,5,https://jsonplaceholder.typicode.com/users,34,0,0
+1773685295018,85,GET /users,200,OK,API Performance Test 1-4,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[200]]]
+
+****** comparison: [[[   ]]]
+
+/",6866,135,1,4,https://jsonplaceholder.typicode.com/users,85,0,56
+1773685295103,29,GET /users,200,OK,API Performance Test 1-4,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[200]]]
+
+****** comparison: [[[   ]]]
+
+/",6866,135,1,4,https://jsonplaceholder.typicode.com/users,29,0,0
+1773685295133,29,GET /users,200,OK,API Performance Test 1-4,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[200]]]
+
+****** comparison: [[[   ]]]
+
+/",6866,135,1,4,https://jsonplaceholder.typicode.com/users,28,0,0
+1773685295162,29,GET /users,200,OK,API Performance Test 1-4,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[200]]]
+
+****** comparison: [[[   ]]]
+
+/",6866,135,1,4,https://jsonplaceholder.typicode.com/users,29,0,0
+1773685295191,29,GET /users,200,OK,API Performance Test 1-4,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[200]]]
+
+****** comparison: [[[   ]]]
+
+/",6866,135,2,5,https://jsonplaceholder.typicode.com/users,29,0,0
+1773685294892,397,Get usuario Inexistente - 404,404,Not Found,Unhappy Path test 3-2,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[404]]]
+
+****** comparison: [[[   ]]]
+
+/",1205,145,2,4,https://jsonplaceholder.typicode.com/%20/users/99999,397,0,258
+1773685295216,85,GET /users,200,OK,API Performance Test 1-5,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[200]]]
+
+****** comparison: [[[   ]]]
+
+/",6866,135,1,4,https://jsonplaceholder.typicode.com/users,85,0,55
+1773685295301,29,GET /users,200,OK,API Performance Test 1-5,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[200]]]
+
+****** comparison: [[[   ]]]
+
+/",6866,135,1,4,https://jsonplaceholder.typicode.com/users,29,0,0
+1773685295331,29,GET /users,200,OK,API Performance Test 1-5,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[200]]]
+
+****** comparison: [[[   ]]]
+
+/",6866,135,1,4,https://jsonplaceholder.typicode.com/users,29,0,0
+1773685295360,30,GET /users,200,OK,API Performance Test 1-5,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[200]]]
+
+****** comparison: [[[   ]]]
+
+/",6866,135,1,4,https://jsonplaceholder.typicode.com/users,29,0,0
+1773685295390,30,GET /users,200,OK,API Performance Test 1-5,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[200]]]
+
+****** comparison: [[[   ]]]
+
+/",6866,135,2,7,https://jsonplaceholder.typicode.com/users,30,0,0
+1773685294447,1068,POST Login - ${username},200,OK,Login Test - CSV Users 2-1,text,true,,119667,251,2,6,https://practicetestautomation.com/practice-test-login/,612,0,331
+1773685295614,82,GET /users,200,OK,API Performance Test 1-7,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[200]]]
+
+****** comparison: [[[   ]]]
+
+/",6866,135,2,6,https://jsonplaceholder.typicode.com/users,82,0,54
+1773685294665,1052,POST Login credenciales invalidas,200,OK,Unhappy Path test 3-1,text,true,,119667,247,3,6,https://practicetestautomation.com/practice-test-login/,596,0,313
+1773685295696,32,GET /users,200,OK,API Performance Test 1-7,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[200]]]
+
+****** comparison: [[[   ]]]
+
+/",6866,135,2,6,https://jsonplaceholder.typicode.com/users,31,0,0
+1773685295717,28,GET endpoint Inexistente -404,404,Not Found,Unhappy Path test 3-1,text,false,,1205,150,3,6,https://jsonplaceholder.typicode.com/endpointquenoeexiste,28,0,0
+1773685295728,29,GET /users,200,OK,API Performance Test 1-7,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[200]]]
+
+****** comparison: [[[   ]]]
+
+/",6866,135,2,5,https://jsonplaceholder.typicode.com/users,28,0,0
+1773685295390,395,Get usuario Inexistente - 404,404,Not Found,Unhappy Path test 3-3,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[404]]]
+
+****** comparison: [[[   ]]]
+
+/",1205,145,2,5,https://jsonplaceholder.typicode.com/%20/users/99999,395,0,258
+1773685295757,28,GET /users,200,OK,API Performance Test 1-7,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[200]]]
+
+****** comparison: [[[   ]]]
+
+/",6866,135,2,5,https://jsonplaceholder.typicode.com/users,28,0,0
+1773685295417,395,GET /users,200,OK,API Performance Test 1-6,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[200]]]
+
+****** comparison: [[[   ]]]
+
+/",6871,135,2,5,https://jsonplaceholder.typicode.com/users,395,0,257
+1773685295786,28,GET /users,200,OK,API Performance Test 1-7,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[200]]]
+
+****** comparison: [[[   ]]]
+
+/",6866,135,2,5,https://jsonplaceholder.typicode.com/users,27,0,0
+1773685295813,135,GET /users,200,OK,API Performance Test 1-6,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[200]]]
+
+****** comparison: [[[   ]]]
+
+/",6871,135,2,6,https://jsonplaceholder.typicode.com/users,132,0,0
+1773685295891,89,Get usuario Inexistente - 404,404,Not Found,Unhappy Path test 3-4,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[404]]]
+
+****** comparison: [[[   ]]]
+
+/",1201,145,3,6,https://jsonplaceholder.typicode.com/%20/users/99999,89,0,54
+1773685295948,138,GET /users,200,OK,API Performance Test 1-6,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[200]]]
+
+****** comparison: [[[   ]]]
+
+/",6871,135,3,7,https://jsonplaceholder.typicode.com/users,135,0,0
+1773685296013,89,GET /users,200,OK,API Performance Test 1-9,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[200]]]
+
+****** comparison: [[[   ]]]
+
+/",6866,135,3,7,https://jsonplaceholder.typicode.com/users,89,0,59
+1773685296102,30,GET /users,200,OK,API Performance Test 1-9,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[200]]]
+
+****** comparison: [[[   ]]]
+
+/",6866,135,3,7,https://jsonplaceholder.typicode.com/users,29,0,0
+1773685296132,29,GET /users,200,OK,API Performance Test 1-9,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[200]]]
+
+****** comparison: [[[   ]]]
+
+/",6866,135,3,7,https://jsonplaceholder.typicode.com/users,29,0,0
+1773685296162,29,GET /users,200,OK,API Performance Test 1-9,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[200]]]
+
+****** comparison: [[[   ]]]
+
+/",6866,135,3,7,https://jsonplaceholder.typicode.com/users,28,0,0
+1773685295814,395,GET /users,200,OK,API Performance Test 1-8,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[200]]]
+
+****** comparison: [[[   ]]]
+
+/",6871,135,3,7,https://jsonplaceholder.typicode.com/users,395,0,259
+1773685296191,30,GET /users,200,OK,API Performance Test 1-9,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[200]]]
+
+****** comparison: [[[   ]]]
+
+/",6866,135,4,8,https://jsonplaceholder.typicode.com/users,29,0,0
+1773685296087,137,GET /users,200,OK,API Performance Test 1-6,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[200]]]
+
+****** comparison: [[[   ]]]
+
+/",6871,135,3,7,https://jsonplaceholder.typicode.com/users,135,0,0
+1773685296215,91,GET /users,200,OK,API Performance Test 1-10,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[200]]]
+
+****** comparison: [[[   ]]]
+
+/",6866,135,3,7,https://jsonplaceholder.typicode.com/users,91,0,54
+1773685296306,31,GET /users,200,OK,API Performance Test 1-10,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[200]]]
+
+****** comparison: [[[   ]]]
+
+/",6866,135,3,7,https://jsonplaceholder.typicode.com/users,31,0,0
+1773685296209,138,GET /users,200,OK,API Performance Test 1-8,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[200]]]
+
+****** comparison: [[[   ]]]
+
+/",6871,135,3,7,https://jsonplaceholder.typicode.com/users,135,0,0
+1773685295290,1058,POST Login credenciales invalidas,200,OK,Unhappy Path test 3-2,text,true,,119667,247,3,7,https://practicetestautomation.com/practice-test-login/,590,0,310
+1773685296225,135,GET /users,200,OK,API Performance Test 1-6,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[200]]]
+
+****** comparison: [[[   ]]]
+
+/",6871,135,3,7,https://jsonplaceholder.typicode.com/users,133,0,0
+1773685296337,30,GET /users,200,OK,API Performance Test 1-10,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[200]]]
+
+****** comparison: [[[   ]]]
+
+/",6866,135,2,6,https://jsonplaceholder.typicode.com/users,30,0,0
+1773685296368,31,GET /users,200,OK,API Performance Test 1-10,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[200]]]
+
+****** comparison: [[[   ]]]
+
+/",6866,135,2,8,https://jsonplaceholder.typicode.com/users,30,0,0
+1773685295391,1036,POST Login - ${username},200,OK,Login Test - CSV Users 2-2,text,true,,119667,251,2,9,https://practicetestautomation.com/practice-test-login/,582,0,307
+1773685296399,31,GET /users,200,OK,API Performance Test 1-10,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[200]]]
+
+****** comparison: [[[   ]]]
+
+/",6866,135,3,8,https://jsonplaceholder.typicode.com/users,31,0,0
+1773685296390,86,Get usuario Inexistente - 404,404,Not Found,Unhappy Path test 3-5,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[404]]]
+
+****** comparison: [[[   ]]]
+
+/",1201,145,4,7,https://jsonplaceholder.typicode.com/%20/users/99999,86,0,55
+1773685296348,134,GET endpoint Inexistente -404,404,Not Found,Unhappy Path test 3-2,text,false,,1201,150,4,7,https://jsonplaceholder.typicode.com/endpointquenoeexiste,134,0,0
+1773685296347,140,GET /users,200,OK,API Performance Test 1-8,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[200]]]
+
+****** comparison: [[[   ]]]
+
+/",6871,135,2,6,https://jsonplaceholder.typicode.com/users,138,0,0
+1773685296415,84,GET /users,200,OK,API Performance Test 1-11,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[200]]]
+
+****** comparison: [[[   ]]]
+
+/",6866,135,2,6,https://jsonplaceholder.typicode.com/users,84,0,54
+1773685296499,30,GET /users,200,OK,API Performance Test 1-11,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[200]]]
+
+****** comparison: [[[   ]]]
+
+/",6866,135,2,6,https://jsonplaceholder.typicode.com/users,30,0,0
+1773685296529,29,GET /users,200,OK,API Performance Test 1-11,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[200]]]
+
+****** comparison: [[[   ]]]
+
+/",6866,135,2,6,https://jsonplaceholder.typicode.com/users,29,0,0
+1773685296559,29,GET /users,200,OK,API Performance Test 1-11,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[200]]]
+
+****** comparison: [[[   ]]]
+
+/",6866,135,2,6,https://jsonplaceholder.typicode.com/users,28,0,0
+1773685296588,36,GET /users,200,OK,API Performance Test 1-11,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[200]]]
+
+****** comparison: [[[   ]]]
+
+/",6866,135,3,7,https://jsonplaceholder.typicode.com/users,35,0,0
+1773685296488,138,GET /users,200,OK,API Performance Test 1-8,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[200]]]
+
+****** comparison: [[[   ]]]
+
+/",6871,135,2,6,https://jsonplaceholder.typicode.com/users,134,0,0
+1773685296626,134,GET /users,200,OK,API Performance Test 1-8,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[200]]]
+
+****** comparison: [[[   ]]]
+
+/",6871,135,2,6,https://jsonplaceholder.typicode.com/users,132,0,0
+1773685295785,1044,POST Login credenciales invalidas,200,OK,Unhappy Path test 3-3,text,true,,119667,247,3,6,https://practicetestautomation.com/practice-test-login/,589,0,321
+1773685296812,86,GET /users,200,OK,API Performance Test 1-13,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[200]]]
+
+****** comparison: [[[   ]]]
+
+/",6866,135,2,7,https://jsonplaceholder.typicode.com/users,86,0,57
+1773685296899,29,GET /users,200,OK,API Performance Test 1-13,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[200]]]
+
+****** comparison: [[[   ]]]
+
+/",6866,135,2,7,https://jsonplaceholder.typicode.com/users,29,0,0
+1773685296928,30,GET /users,200,OK,API Performance Test 1-13,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[200]]]
+
+****** comparison: [[[   ]]]
+
+/",6866,135,2,7,https://jsonplaceholder.typicode.com/users,30,0,0
+1773685296829,131,GET endpoint Inexistente -404,404,Not Found,Unhappy Path test 3-3,text,false,,1201,150,4,7,https://jsonplaceholder.typicode.com/endpointquenoeexiste,131,0,0
+1773685296890,93,Get usuario Inexistente - 404,404,Not Found,Unhappy Path test 3-6,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[404]]]
+
+****** comparison: [[[   ]]]
+
+/",1201,145,3,6,https://jsonplaceholder.typicode.com/%20/users/99999,93,0,56
+1773685296958,30,GET /users,200,OK,API Performance Test 1-13,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[200]]]
+
+****** comparison: [[[   ]]]
+
+/",6866,135,2,6,https://jsonplaceholder.typicode.com/users,30,0,0
+1773685295981,1030,POST Login credenciales invalidas,200,OK,Unhappy Path test 3-4,text,true,,119667,247,3,6,https://practicetestautomation.com/practice-test-login/,576,0,309
+1773685296613,405,GET /users,200,OK,API Performance Test 1-12,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[200]]]
+
+****** comparison: [[[   ]]]
+
+/",6872,135,3,7,https://jsonplaceholder.typicode.com/users,404,0,259
+1773685296989,30,GET /users,200,OK,API Performance Test 1-13,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[200]]]
+
+****** comparison: [[[   ]]]
+
+/",6866,135,3,7,https://jsonplaceholder.typicode.com/users,29,0,0
+1773685297011,32,GET endpoint Inexistente -404,404,Not Found,Unhappy Path test 3-4,text,false,,1205,150,3,6,https://jsonplaceholder.typicode.com/endpointquenoeexiste,32,0,0
+1773685297012,79,GET /users,200,OK,API Performance Test 1-14,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[200]]]
+
+****** comparison: [[[   ]]]
+
+/",6866,135,2,5,https://jsonplaceholder.typicode.com/users,79,0,51
+1773685297092,28,GET /users,200,OK,API Performance Test 1-14,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[200]]]
+
+****** comparison: [[[   ]]]
+
+/",6866,135,2,5,https://jsonplaceholder.typicode.com/users,28,0,0
+1773685297120,29,GET /users,200,OK,API Performance Test 1-14,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[200]]]
+
+****** comparison: [[[   ]]]
+
+/",6866,135,2,5,https://jsonplaceholder.typicode.com/users,29,0,0
+1773685297018,144,GET /users,200,OK,API Performance Test 1-12,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[200]]]
+
+****** comparison: [[[   ]]]
+
+/",6871,135,2,5,https://jsonplaceholder.typicode.com/users,142,0,0
+1773685297150,29,GET /users,200,OK,API Performance Test 1-14,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[200]]]
+
+****** comparison: [[[   ]]]
+
+/",6866,135,2,5,https://jsonplaceholder.typicode.com/users,28,0,0
+1773685297179,28,GET /users,200,OK,API Performance Test 1-14,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[200]]]
+
+****** comparison: [[[   ]]]
+
+/",6866,135,2,5,https://jsonplaceholder.typicode.com/users,27,0,0
+1773685297162,138,GET /users,200,OK,API Performance Test 1-12,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[200]]]
+
+****** comparison: [[[   ]]]
+
+/",6871,135,2,5,https://jsonplaceholder.typicode.com/users,138,0,0
+1773685296387,1039,POST Login - ${username},200,OK,Login Test - CSV Users 2-3,text,true,,119667,251,2,8,https://practicetestautomation.com/practice-test-login/,585,0,313
+1773685297301,135,GET /users,200,OK,API Performance Test 1-12,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[200]]]
+
+****** comparison: [[[   ]]]
+
+/",6871,135,3,7,https://jsonplaceholder.typicode.com/users,134,0,0
+1773685297390,86,Get usuario Inexistente - 404,404,Not Found,Unhappy Path test 3-7,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[404]]]
+
+****** comparison: [[[   ]]]
+
+/",1201,145,3,7,https://jsonplaceholder.typicode.com/%20/users/99999,86,0,53
+1773685296476,1041,POST Login credenciales invalidas,200,OK,Unhappy Path test 3-5,text,true,,119667,247,3,7,https://practicetestautomation.com/practice-test-login/,585,0,309
+1773685297517,29,GET endpoint Inexistente -404,404,Not Found,Unhappy Path test 3-5,text,false,,1205,150,3,7,https://jsonplaceholder.typicode.com/endpointquenoeexiste,29,0,0
+1773685297437,136,GET /users,200,OK,API Performance Test 1-12,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[200]]]
+
+****** comparison: [[[   ]]]
+
+/",6871,135,3,6,https://jsonplaceholder.typicode.com/users,134,0,0
+1773685297212,399,GET /users,200,OK,API Performance Test 1-15,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[200]]]
+
+****** comparison: [[[   ]]]
+
+/",6872,135,2,5,https://jsonplaceholder.typicode.com/users,399,0,259
+1773685297611,142,GET /users,200,OK,API Performance Test 1-15,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[200]]]
+
+****** comparison: [[[   ]]]
+
+/",6871,135,3,6,https://jsonplaceholder.typicode.com/users,139,0,0
+1773685297412,390,GET /users,200,OK,API Performance Test 1-16,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[200]]]
+
+****** comparison: [[[   ]]]
+
+/",6871,135,3,6,https://jsonplaceholder.typicode.com/users,390,0,256
+1773685297753,135,GET /users,200,OK,API Performance Test 1-15,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[200]]]
+
+****** comparison: [[[   ]]]
+
+/",6871,135,4,7,https://jsonplaceholder.typicode.com/users,132,0,0
+1773685297812,85,GET /users,200,OK,API Performance Test 1-18,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[200]]]
+
+****** comparison: [[[   ]]]
+
+/",6866,135,4,8,https://jsonplaceholder.typicode.com/users,85,0,54
+1773685297897,30,GET /users,200,OK,API Performance Test 1-18,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[200]]]
+
+****** comparison: [[[   ]]]
+
+/",6866,135,4,8,https://jsonplaceholder.typicode.com/users,30,0,0
+1773685297803,145,GET /users,200,OK,API Performance Test 1-16,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[200]]]
+
+****** comparison: [[[   ]]]
+
+/",6872,135,4,8,https://jsonplaceholder.typicode.com/users,141,0,0
+1773685297927,31,GET /users,200,OK,API Performance Test 1-18,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[200]]]
+
+****** comparison: [[[   ]]]
+
+/",6866,135,4,8,https://jsonplaceholder.typicode.com/users,31,0,0
+1773685297958,32,GET /users,200,OK,API Performance Test 1-18,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[200]]]
+
+****** comparison: [[[   ]]]
+
+/",6866,135,4,8,https://jsonplaceholder.typicode.com/users,31,0,0
+1773685297614,397,GET /users,200,OK,API Performance Test 1-17,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[200]]]
+
+****** comparison: [[[   ]]]
+
+/",6871,135,5,9,https://jsonplaceholder.typicode.com/users,397,0,257
+1773685297990,32,GET /users,200,OK,API Performance Test 1-18,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[200]]]
+
+****** comparison: [[[   ]]]
+
+/",6866,135,5,9,https://jsonplaceholder.typicode.com/users,31,0,0
+1773685297888,138,GET /users,200,OK,API Performance Test 1-15,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[200]]]
+
+****** comparison: [[[   ]]]
+
+/",6871,135,4,8,https://jsonplaceholder.typicode.com/users,136,0,0
+1773685296983,1052,POST Login credenciales invalidas,200,OK,Unhappy Path test 3-6,text,true,,119667,247,3,8,https://practicetestautomation.com/practice-test-login/,597,0,308
+1773685298036,32,GET endpoint Inexistente -404,404,Not Found,Unhappy Path test 3-6,text,false,,1205,150,3,8,https://jsonplaceholder.typicode.com/endpointquenoeexiste,32,0,0
+1773685297948,138,GET /users,200,OK,API Performance Test 1-16,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[200]]]
+
+****** comparison: [[[   ]]]
+
+/",6871,135,4,7,https://jsonplaceholder.typicode.com/users,135,0,0
+1773685298011,82,GET /users,200,OK,API Performance Test 1-19,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[200]]]
+
+****** comparison: [[[   ]]]
+
+/",6866,135,4,7,https://jsonplaceholder.typicode.com/users,82,0,52
+1773685298094,29,GET /users,200,OK,API Performance Test 1-19,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[200]]]
+
+****** comparison: [[[   ]]]
+
+/",6866,135,4,7,https://jsonplaceholder.typicode.com/users,28,0,0
+1773685298011,141,GET /users,200,OK,API Performance Test 1-17,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[200]]]
+
+****** comparison: [[[   ]]]
+
+/",6871,135,4,7,https://jsonplaceholder.typicode.com/users,138,0,0
+1773685298123,31,GET /users,200,OK,API Performance Test 1-19,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[200]]]
+
+****** comparison: [[[   ]]]
+
+/",6866,135,4,7,https://jsonplaceholder.typicode.com/users,30,0,0
+1773685298026,136,GET /users,200,OK,API Performance Test 1-15,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[200]]]
+
+****** comparison: [[[   ]]]
+
+/",6871,135,4,7,https://jsonplaceholder.typicode.com/users,136,0,0
+1773685298154,34,GET /users,200,OK,API Performance Test 1-19,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[200]]]
+
+****** comparison: [[[   ]]]
+
+/",6866,135,3,6,https://jsonplaceholder.typicode.com/users,33,0,0
+1773685298188,31,GET /users,200,OK,API Performance Test 1-19,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[200]]]
+
+****** comparison: [[[   ]]]
+
+/",6866,135,4,7,https://jsonplaceholder.typicode.com/users,30,0,0
+1773685298087,137,GET /users,200,OK,API Performance Test 1-16,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[200]]]
+
+****** comparison: [[[   ]]]
+
+/",6871,135,3,6,https://jsonplaceholder.typicode.com/users,135,0,0
+1773685298152,139,GET /users,200,OK,API Performance Test 1-17,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[200]]]
+
+****** comparison: [[[   ]]]
+
+/",6871,135,3,6,https://jsonplaceholder.typicode.com/users,136,0,0
+1773685297890,418,Get usuario Inexistente - 404,404,Not Found,Unhappy Path test 3-8,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[404]]]
+
+****** comparison: [[[   ]]]
+
+/",1206,145,2,6,https://jsonplaceholder.typicode.com/%20/users/99999,418,0,263
+1773685298224,136,GET /users,200,OK,API Performance Test 1-16,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[200]]]
+
+****** comparison: [[[   ]]]
+
+/",6871,135,3,6,https://jsonplaceholder.typicode.com/users,133,0,0
+1773685297388,1022,POST Login - ${username},200,OK,Login Test - CSV Users 2-4,text,true,,119667,251,2,7,https://practicetestautomation.com/practice-test-login/,567,0,308
+1773685298291,144,GET /users,200,OK,API Performance Test 1-17,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[200]]]
+
+****** comparison: [[[   ]]]
+
+/",6872,135,3,7,https://jsonplaceholder.typicode.com/users,142,0,0
+1773685297476,1024,POST Login credenciales invalidas,200,OK,Unhappy Path test 3-7,text,true,,119667,247,3,7,https://practicetestautomation.com/practice-test-login/,570,0,308
+1773685298500,29,GET endpoint Inexistente -404,404,Not Found,Unhappy Path test 3-7,text,false,,1205,150,3,7,https://jsonplaceholder.typicode.com/endpointquenoeexiste,29,0,0
+1773685298435,138,GET /users,200,OK,API Performance Test 1-17,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[200]]]
+
+****** comparison: [[[   ]]]
+
+/",6871,135,3,6,https://jsonplaceholder.typicode.com/users,135,0,0
+1773685298212,395,GET /users,200,OK,API Performance Test 1-20,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[200]]]
+
+****** comparison: [[[   ]]]
+
+/",6871,135,2,5,https://jsonplaceholder.typicode.com/users,395,0,257
+1773685298607,137,GET /users,200,OK,API Performance Test 1-20,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[200]]]
+
+****** comparison: [[[   ]]]
+
+/",6871,135,3,6,https://jsonplaceholder.typicode.com/users,134,0,0
+1773685298390,393,Get usuario Inexistente - 404,404,Not Found,Unhappy Path test 3-9,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[404]]]
+
+****** comparison: [[[   ]]]
+
+/",1205,145,2,6,https://jsonplaceholder.typicode.com/%20/users/99999,393,0,256
+1773685298414,387,GET /users,200,OK,API Performance Test 1-21,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[200]]]
+
+****** comparison: [[[   ]]]
+
+/",6871,135,3,6,https://jsonplaceholder.typicode.com/users,387,0,254
+1773685298744,137,GET /users,200,OK,API Performance Test 1-20,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[200]]]
+
+****** comparison: [[[   ]]]
+
+/",6871,135,4,7,https://jsonplaceholder.typicode.com/users,133,0,0
+1773685298802,136,GET /users,200,OK,API Performance Test 1-21,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[200]]]
+
+****** comparison: [[[   ]]]
+
+/",6871,135,4,8,https://jsonplaceholder.typicode.com/users,133,0,0
+1773685298612,389,GET /users,200,OK,API Performance Test 1-22,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[200]]]
+
+****** comparison: [[[   ]]]
+
+/",6871,135,4,8,https://jsonplaceholder.typicode.com/users,389,0,255
+1773685298881,134,GET /users,200,OK,API Performance Test 1-20,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[200]]]
+
+****** comparison: [[[   ]]]
+
+/",6871,135,5,9,https://jsonplaceholder.typicode.com/users,132,0,0
+1773685298938,139,GET /users,200,OK,API Performance Test 1-21,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[200]]]
+
+****** comparison: [[[   ]]]
+
+/",6871,135,5,9,https://jsonplaceholder.typicode.com/users,130,0,0
+1773685299002,141,GET /users,200,OK,API Performance Test 1-22,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[200]]]
+
+****** comparison: [[[   ]]]
+
+/",6871,135,5,9,https://jsonplaceholder.typicode.com/users,139,0,0
+1773685299016,136,GET /users,200,OK,API Performance Test 1-20,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[200]]]
+
+****** comparison: [[[   ]]]
+
+/",6871,135,5,9,https://jsonplaceholder.typicode.com/users,133,0,0
+1773685298812,399,GET /users,200,OK,API Performance Test 1-23,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[200]]]
+
+****** comparison: [[[   ]]]
+
+/",6871,135,5,9,https://jsonplaceholder.typicode.com/users,399,0,259
+1773685299077,139,GET /users,200,OK,API Performance Test 1-21,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[200]]]
+
+****** comparison: [[[   ]]]
+
+/",6871,135,5,9,https://jsonplaceholder.typicode.com/users,139,0,0
+1773685299143,138,GET /users,200,OK,API Performance Test 1-22,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[200]]]
+
+****** comparison: [[[   ]]]
+
+/",6871,135,5,9,https://jsonplaceholder.typicode.com/users,135,0,0
+1773685298889,396,Get usuario Inexistente - 404,404,Not Found,Unhappy Path test 3-10,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[404]]]
+
+****** comparison: [[[   ]]]
+
+/",1205,145,3,9,https://jsonplaceholder.typicode.com/%20/users/99999,396,0,259
+1773685299211,84,GET /users,200,OK,API Performance Test 1-25,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[200]]]
+
+****** comparison: [[[   ]]]
+
+/",6866,135,5,9,https://jsonplaceholder.typicode.com/users,84,0,53
+1773685299295,29,GET /users,200,OK,API Performance Test 1-25,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[200]]]
+
+****** comparison: [[[   ]]]
+
+/",6866,135,5,9,https://jsonplaceholder.typicode.com/users,28,0,0
+1773685298308,1033,POST Login credenciales invalidas,200,OK,Unhappy Path test 3-8,text,true,,119667,247,3,9,https://practicetestautomation.com/practice-test-login/,573,0,308
+1773685299216,133,GET /users,200,OK,API Performance Test 1-21,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[200]]]
+
+****** comparison: [[[   ]]]
+
+/",6871,135,5,9,https://jsonplaceholder.typicode.com/users,131,0,0
+1773685299212,139,GET /users,200,OK,API Performance Test 1-23,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[200]]]
+
+****** comparison: [[[   ]]]
+
+/",6871,135,4,8,https://jsonplaceholder.typicode.com/users,135,0,0
+1773685299324,29,GET /users,200,OK,API Performance Test 1-25,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[200]]]
+
+****** comparison: [[[   ]]]
+
+/",6866,135,4,8,https://jsonplaceholder.typicode.com/users,28,0,0
+1773685299353,29,GET /users,200,OK,API Performance Test 1-25,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[200]]]
+
+****** comparison: [[[   ]]]
+
+/",6866,135,4,8,https://jsonplaceholder.typicode.com/users,28,0,0
+1773685299011,390,GET /users,200,OK,API Performance Test 1-24,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[200]]]
+
+****** comparison: [[[   ]]]
+
+/",6871,135,4,8,https://jsonplaceholder.typicode.com/users,390,0,256
+1773685299382,29,GET /users,200,OK,API Performance Test 1-25,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[200]]]
+
+****** comparison: [[[   ]]]
+
+/",6866,135,5,9,https://jsonplaceholder.typicode.com/users,29,0,0
+1773685299281,136,GET /users,200,OK,API Performance Test 1-22,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[200]]]
+
+****** comparison: [[[   ]]]
+
+/",6871,135,4,8,https://jsonplaceholder.typicode.com/users,133,0,0
+1773685298389,1028,POST Login - ${username},200,OK,Login Test - CSV Users 2-5,text,true,,119667,251,1,8,https://practicetestautomation.com/practice-test-login/,571,0,308
+1773685299342,141,GET endpoint Inexistente -404,404,Not Found,Unhappy Path test 3-8,text,false,,1202,150,3,7,https://jsonplaceholder.typicode.com/endpointquenoeexiste,141,0,0
+1773685299351,136,GET /users,200,OK,API Performance Test 1-23,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[200]]]
+
+****** comparison: [[[   ]]]
+
+/",6871,135,4,6,https://jsonplaceholder.typicode.com/users,134,0,0
+1773685299401,136,GET /users,200,OK,API Performance Test 1-24,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[200]]]
+
+****** comparison: [[[   ]]]
+
+/",6871,135,4,6,https://jsonplaceholder.typicode.com/users,131,0,0
+1773685299417,137,GET /users,200,OK,API Performance Test 1-22,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[200]]]
+
+****** comparison: [[[   ]]]
+
+/",6871,135,4,6,https://jsonplaceholder.typicode.com/users,133,0,0
+1773685299487,138,GET /users,200,OK,API Performance Test 1-23,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[200]]]
+
+****** comparison: [[[   ]]]
+
+/",6871,135,4,6,https://jsonplaceholder.typicode.com/users,135,0,0
+1773685299537,136,GET /users,200,OK,API Performance Test 1-24,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[200]]]
+
+****** comparison: [[[   ]]]
+
+/",6871,135,4,6,https://jsonplaceholder.typicode.com/users,133,0,0
+1773685299625,138,GET /users,200,OK,API Performance Test 1-23,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[200]]]
+
+****** comparison: [[[   ]]]
+
+/",6871,135,4,6,https://jsonplaceholder.typicode.com/users,134,0,0
+1773685298784,1018,POST Login credenciales invalidas,200,OK,Unhappy Path test 3-9,text,true,,119667,247,2,5,https://practicetestautomation.com/practice-test-login/,563,0,307
+1773685299411,392,GET /users,200,OK,API Performance Test 1-26,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[200]]]
+
+****** comparison: [[[   ]]]
+
+/",6871,135,3,5,https://jsonplaceholder.typicode.com/users,392,0,255
+1773685299673,135,GET /users,200,OK,API Performance Test 1-24,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[200]]]
+
+****** comparison: [[[   ]]]
+
+/",6871,135,3,5,https://jsonplaceholder.typicode.com/users,132,0,0
+1773685299810,82,GET /users,200,OK,API Performance Test 1-28,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[200]]]
+
+****** comparison: [[[   ]]]
+
+/",6866,135,4,6,https://jsonplaceholder.typicode.com/users,81,0,52
+1773685299892,29,GET /users,200,OK,API Performance Test 1-28,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[200]]]
+
+****** comparison: [[[   ]]]
+
+/",6866,135,4,6,https://jsonplaceholder.typicode.com/users,28,0,0
+1773685299802,134,GET endpoint Inexistente -404,404,Not Found,Unhappy Path test 3-9,text,false,,1201,150,2,6,https://jsonplaceholder.typicode.com/endpointquenoeexiste,134,0,0
+1773685299803,137,GET /users,200,OK,API Performance Test 1-26,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[200]]]
+
+****** comparison: [[[   ]]]
+
+/",6871,135,4,5,https://jsonplaceholder.typicode.com/users,134,0,0
+1773685299808,138,GET /users,200,OK,API Performance Test 1-24,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[200]]]
+
+****** comparison: [[[   ]]]
+
+/",6871,135,4,5,https://jsonplaceholder.typicode.com/users,135,0,0
+1773685299922,28,GET /users,200,OK,API Performance Test 1-28,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[200]]]
+
+****** comparison: [[[   ]]]
+
+/",6866,135,3,4,https://jsonplaceholder.typicode.com/users,28,0,0
+1773685299951,29,GET /users,200,OK,API Performance Test 1-28,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[200]]]
+
+****** comparison: [[[   ]]]
+
+/",6866,135,3,4,https://jsonplaceholder.typicode.com/users,29,0,0
+1773685299613,394,GET /users,200,OK,API Performance Test 1-27,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[200]]]
+
+****** comparison: [[[   ]]]
+
+/",6871,135,3,4,https://jsonplaceholder.typicode.com/users,394,0,257
+1773685299981,29,GET /users,200,OK,API Performance Test 1-28,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[200]]]
+
+****** comparison: [[[   ]]]
+
+/",6866,135,4,5,https://jsonplaceholder.typicode.com/users,28,0,0
+1773685299940,136,GET /users,200,OK,API Performance Test 1-26,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[200]]]
+
+****** comparison: [[[   ]]]
+
+/",6871,135,3,4,https://jsonplaceholder.typicode.com/users,133,0,0
+1773685300010,85,GET /users,200,OK,API Performance Test 1-29,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[200]]]
+
+****** comparison: [[[   ]]]
+
+/",6866,135,3,4,https://jsonplaceholder.typicode.com/users,85,0,54
+1773685300095,31,GET /users,200,OK,API Performance Test 1-29,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[200]]]
+
+****** comparison: [[[   ]]]
+
+/",6866,135,3,4,https://jsonplaceholder.typicode.com/users,31,0,0
+1773685300007,154,GET /users,200,OK,API Performance Test 1-27,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[200]]]
+
+****** comparison: [[[   ]]]
+
+/",6872,135,3,4,https://jsonplaceholder.typicode.com/users,151,0,0
+1773685300126,37,GET /users,200,OK,API Performance Test 1-29,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[200]]]
+
+****** comparison: [[[   ]]]
+
+/",6866,135,3,4,https://jsonplaceholder.typicode.com/users,36,0,0
+1773685300163,33,GET /users,200,OK,API Performance Test 1-29,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[200]]]
+
+****** comparison: [[[   ]]]
+
+/",6866,135,3,4,https://jsonplaceholder.typicode.com/users,31,0,0
+1773685300076,135,GET /users,200,OK,API Performance Test 1-26,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[200]]]
+
+****** comparison: [[[   ]]]
+
+/",6871,135,4,5,https://jsonplaceholder.typicode.com/users,131,0,0
+1773685300196,30,GET /users,200,OK,API Performance Test 1-29,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[200]]]
+
+****** comparison: [[[   ]]]
+
+/",6866,135,4,5,https://jsonplaceholder.typicode.com/users,30,0,0
+1773685300161,137,GET /users,200,OK,API Performance Test 1-27,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[200]]]
+
+****** comparison: [[[   ]]]
+
+/",6871,135,3,4,https://jsonplaceholder.typicode.com/users,134,0,0
+1773685299285,1027,POST Login credenciales invalidas,200,OK,Unhappy Path test 3-10,text,true,,119667,247,1,4,https://practicetestautomation.com/practice-test-login/,572,0,307
+1773685300211,152,GET /users,200,OK,API Performance Test 1-26,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[200]]]
+
+****** comparison: [[[   ]]]
+
+/",6871,135,3,4,https://jsonplaceholder.typicode.com/users,152,0,0
+1773685300299,138,GET /users,200,OK,API Performance Test 1-27,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[200]]]
+
+****** comparison: [[[   ]]]
+
+/",6871,135,3,4,https://jsonplaceholder.typicode.com/users,138,0,0
+1773685300312,133,GET endpoint Inexistente -404,404,Not Found,Unhappy Path test 3-10,text,false,,1201,150,1,4,https://jsonplaceholder.typicode.com/endpointquenoeexiste,133,0,0
+1773685300409,86,GET /users,200,OK,API Performance Test 1-31,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[200]]]
+
+****** comparison: [[[   ]]]
+
+/",6866,135,3,3,https://jsonplaceholder.typicode.com/users,86,0,55
+1773685300496,28,GET /users,200,OK,API Performance Test 1-31,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[200]]]
+
+****** comparison: [[[   ]]]
+
+/",6866,135,3,3,https://jsonplaceholder.typicode.com/users,27,0,0
+1773685300524,29,GET /users,200,OK,API Performance Test 1-31,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[200]]]
+
+****** comparison: [[[   ]]]
+
+/",6866,135,3,3,https://jsonplaceholder.typicode.com/users,29,0,0
+1773685300553,30,GET /users,200,OK,API Performance Test 1-31,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[200]]]
+
+****** comparison: [[[   ]]]
+
+/",6866,135,3,3,https://jsonplaceholder.typicode.com/users,30,0,0
+1773685300437,151,GET /users,200,OK,API Performance Test 1-27,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[200]]]
+
+****** comparison: [[[   ]]]
+
+/",6871,135,3,3,https://jsonplaceholder.typicode.com/users,148,0,0
+1773685300209,395,GET /users,200,OK,API Performance Test 1-30,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[200]]]
+
+****** comparison: [[[   ]]]
+
+/",6871,135,2,2,https://jsonplaceholder.typicode.com/users,395,0,259
+1773685300584,30,GET /users,200,OK,API Performance Test 1-31,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[200]]]
+
+****** comparison: [[[   ]]]
+
+/",6866,135,3,3,https://jsonplaceholder.typicode.com/users,29,0,0
+1773685300604,137,GET /users,200,OK,API Performance Test 1-30,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[200]]]
+
+****** comparison: [[[   ]]]
+
+/",6871,135,2,2,https://jsonplaceholder.typicode.com/users,133,0,0
+1773685300742,135,GET /users,200,OK,API Performance Test 1-30,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[200]]]
+
+****** comparison: [[[   ]]]
+
+/",6871,135,3,3,https://jsonplaceholder.typicode.com/users,132,0,0
+1773685300811,83,GET /users,200,OK,API Performance Test 1-33,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[200]]]
+
+****** comparison: [[[   ]]]
+
+/",6866,135,3,3,https://jsonplaceholder.typicode.com/users,83,0,53
+1773685300895,29,GET /users,200,OK,API Performance Test 1-33,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[200]]]
+
+****** comparison: [[[   ]]]
+
+/",6866,135,3,3,https://jsonplaceholder.typicode.com/users,28,0,0
+1773685300924,32,GET /users,200,OK,API Performance Test 1-33,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[200]]]
+
+****** comparison: [[[   ]]]
+
+/",6866,135,3,3,https://jsonplaceholder.typicode.com/users,28,0,0
+1773685300956,29,GET /users,200,OK,API Performance Test 1-33,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[200]]]
+
+****** comparison: [[[   ]]]
+
+/",6866,135,3,3,https://jsonplaceholder.typicode.com/users,29,0,0
+1773685300985,30,GET /users,200,OK,API Performance Test 1-33,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[200]]]
+
+****** comparison: [[[   ]]]
+
+/",6866,135,4,4,https://jsonplaceholder.typicode.com/users,29,0,0
+1773685300877,138,GET /users,200,OK,API Performance Test 1-30,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[200]]]
+
+****** comparison: [[[   ]]]
+
+/",6871,135,4,4,https://jsonplaceholder.typicode.com/users,135,0,0
+1773685300610,417,GET /users,200,OK,API Performance Test 1-32,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[200]]]
+
+****** comparison: [[[   ]]]
+
+/",6872,135,3,3,https://jsonplaceholder.typicode.com/users,417,0,264
+1773685301015,140,GET /users,200,OK,API Performance Test 1-30,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[200]]]
+
+****** comparison: [[[   ]]]
+
+/",6871,135,3,3,https://jsonplaceholder.typicode.com/users,140,0,0
+1773685301028,140,GET /users,200,OK,API Performance Test 1-32,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[200]]]
+
+****** comparison: [[[   ]]]
+
+/",6871,135,2,2,https://jsonplaceholder.typicode.com/users,137,0,0
+1773685301168,147,GET /users,200,OK,API Performance Test 1-32,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[200]]]
+
+****** comparison: [[[   ]]]
+
+/",6871,135,3,3,https://jsonplaceholder.typicode.com/users,143,0,0
+1773685301010,392,GET /users,200,OK,API Performance Test 1-34,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[200]]]
+
+****** comparison: [[[   ]]]
+
+/",6871,135,3,3,https://jsonplaceholder.typicode.com/users,392,0,258
+1773685301315,144,GET /users,200,OK,API Performance Test 1-32,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[200]]]
+
+****** comparison: [[[   ]]]
+
+/",6872,135,4,4,https://jsonplaceholder.typicode.com/users,141,0,0
+1773685301410,81,GET /users,200,OK,API Performance Test 1-36,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[200]]]
+
+****** comparison: [[[   ]]]
+
+/",6866,135,4,4,https://jsonplaceholder.typicode.com/users,81,0,53
+1773685301492,29,GET /users,200,OK,API Performance Test 1-36,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[200]]]
+
+****** comparison: [[[   ]]]
+
+/",6866,135,4,4,https://jsonplaceholder.typicode.com/users,28,0,0
+1773685301402,136,GET /users,200,OK,API Performance Test 1-34,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[200]]]
+
+****** comparison: [[[   ]]]
+
+/",6871,135,4,4,https://jsonplaceholder.typicode.com/users,133,0,0
+1773685301521,28,GET /users,200,OK,API Performance Test 1-36,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[200]]]
+
+****** comparison: [[[   ]]]
+
+/",6866,135,4,4,https://jsonplaceholder.typicode.com/users,28,0,0
+1773685301549,31,GET /users,200,OK,API Performance Test 1-36,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[200]]]
+
+****** comparison: [[[   ]]]
+
+/",6866,135,4,4,https://jsonplaceholder.typicode.com/users,30,0,0
+1773685301460,139,GET /users,200,OK,API Performance Test 1-32,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[200]]]
+
+****** comparison: [[[   ]]]
+
+/",6871,135,4,4,https://jsonplaceholder.typicode.com/users,135,0,0
+1773685301207,398,GET /users,200,OK,API Performance Test 1-35,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[200]]]
+
+****** comparison: [[[   ]]]
+
+/",6871,135,3,3,https://jsonplaceholder.typicode.com/users,398,0,257
+1773685301580,28,GET /users,200,OK,API Performance Test 1-36,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[200]]]
+
+****** comparison: [[[   ]]]
+
+/",6866,135,4,4,https://jsonplaceholder.typicode.com/users,28,0,0
+1773685301538,135,GET /users,200,OK,API Performance Test 1-34,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[200]]]
+
+****** comparison: [[[   ]]]
+
+/",6871,135,3,3,https://jsonplaceholder.typicode.com/users,131,0,0
+1773685301608,84,GET /users,200,OK,API Performance Test 1-37,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[200]]]
+
+****** comparison: [[[   ]]]
+
+/",6866,135,3,3,https://jsonplaceholder.typicode.com/users,84,0,54
+1773685301692,30,GET /users,200,OK,API Performance Test 1-37,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[200]]]
+
+****** comparison: [[[   ]]]
+
+/",6866,135,3,3,https://jsonplaceholder.typicode.com/users,30,0,0
+1773685301606,136,GET /users,200,OK,API Performance Test 1-35,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[200]]]
+
+****** comparison: [[[   ]]]
+
+/",6871,135,3,3,https://jsonplaceholder.typicode.com/users,134,0,0
+1773685301722,31,GET /users,200,OK,API Performance Test 1-37,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[200]]]
+
+****** comparison: [[[   ]]]
+
+/",6866,135,3,3,https://jsonplaceholder.typicode.com/users,30,0,0
+1773685301753,30,GET /users,200,OK,API Performance Test 1-37,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[200]]]
+
+****** comparison: [[[   ]]]
+
+/",6866,135,3,3,https://jsonplaceholder.typicode.com/users,29,0,0
+1773685301673,136,GET /users,200,OK,API Performance Test 1-34,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[200]]]
+
+****** comparison: [[[   ]]]
+
+/",6871,135,4,4,https://jsonplaceholder.typicode.com/users,135,0,0
+1773685301783,35,GET /users,200,OK,API Performance Test 1-37,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[200]]]
+
+****** comparison: [[[   ]]]
+
+/",6866,135,4,4,https://jsonplaceholder.typicode.com/users,29,0,0
+1773685301742,137,GET /users,200,OK,API Performance Test 1-35,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[200]]]
+
+****** comparison: [[[   ]]]
+
+/",6871,135,3,3,https://jsonplaceholder.typicode.com/users,135,0,0
+1773685301809,135,GET /users,200,OK,API Performance Test 1-34,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[200]]]
+
+****** comparison: [[[   ]]]
+
+/",6871,135,3,3,https://jsonplaceholder.typicode.com/users,134,0,0
+1773685301880,134,GET /users,200,OK,API Performance Test 1-35,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[200]]]
+
+****** comparison: [[[   ]]]
+
+/",6871,135,3,3,https://jsonplaceholder.typicode.com/users,131,0,0
+1773685302010,85,GET /users,200,OK,API Performance Test 1-39,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[200]]]
+
+****** comparison: [[[   ]]]
+
+/",6866,135,3,3,https://jsonplaceholder.typicode.com/users,85,0,55
+1773685302096,29,GET /users,200,OK,API Performance Test 1-39,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[200]]]
+
+****** comparison: [[[   ]]]
+
+/",6866,135,3,3,https://jsonplaceholder.typicode.com/users,29,0,0
+1773685302014,134,GET /users,200,OK,API Performance Test 1-35,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[200]]]
+
+****** comparison: [[[   ]]]
+
+/",6871,135,3,3,https://jsonplaceholder.typicode.com/users,131,0,0
+1773685302125,30,GET /users,200,OK,API Performance Test 1-39,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[200]]]
+
+****** comparison: [[[   ]]]
+
+/",6866,135,2,2,https://jsonplaceholder.typicode.com/users,29,0,0
+1773685302155,30,GET /users,200,OK,API Performance Test 1-39,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[200]]]
+
+****** comparison: [[[   ]]]
+
+/",6866,135,2,2,https://jsonplaceholder.typicode.com/users,29,0,0
+1773685301807,394,GET /users,200,OK,API Performance Test 1-38,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[200]]]
+
+****** comparison: [[[   ]]]
+
+/",6871,135,2,2,https://jsonplaceholder.typicode.com/users,394,0,259
+1773685302185,30,GET /users,200,OK,API Performance Test 1-39,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[200]]]
+
+****** comparison: [[[   ]]]
+
+/",6866,135,3,3,https://jsonplaceholder.typicode.com/users,29,0,0
+1773685302201,139,GET /users,200,OK,API Performance Test 1-38,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[200]]]
+
+****** comparison: [[[   ]]]
+
+/",6871,135,2,2,https://jsonplaceholder.typicode.com/users,136,0,0
+1773685302340,139,GET /users,200,OK,API Performance Test 1-38,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[200]]]
+
+****** comparison: [[[   ]]]
+
+/",6871,135,3,3,https://jsonplaceholder.typicode.com/users,136,0,0
+1773685302209,391,GET /users,200,OK,API Performance Test 1-40,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[200]]]
+
+****** comparison: [[[   ]]]
+
+/",6871,135,3,3,https://jsonplaceholder.typicode.com/users,390,0,256
+1773685302479,135,GET /users,200,OK,API Performance Test 1-38,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[200]]]
+
+****** comparison: [[[   ]]]
+
+/",6871,135,4,4,https://jsonplaceholder.typicode.com/users,133,0,0
+1773685302607,81,GET /users,200,OK,API Performance Test 1-42,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[200]]]
+
+****** comparison: [[[   ]]]
+
+/",6866,135,4,4,https://jsonplaceholder.typicode.com/users,81,0,53
+1773685302688,29,GET /users,200,OK,API Performance Test 1-42,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[200]]]
+
+****** comparison: [[[   ]]]
+
+/",6866,135,4,4,https://jsonplaceholder.typicode.com/users,29,0,0
+1773685302600,137,GET /users,200,OK,API Performance Test 1-40,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[200]]]
+
+****** comparison: [[[   ]]]
+
+/",6871,135,4,4,https://jsonplaceholder.typicode.com/users,135,0,0
+1773685302718,29,GET /users,200,OK,API Performance Test 1-42,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[200]]]
+
+****** comparison: [[[   ]]]
+
+/",6866,135,4,4,https://jsonplaceholder.typicode.com/users,28,0,0
+1773685302615,148,GET /users,200,OK,API Performance Test 1-38,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[200]]]
+
+****** comparison: [[[   ]]]
+
+/",6871,135,4,4,https://jsonplaceholder.typicode.com/users,145,0,0
+1773685302747,27,GET /users,200,OK,API Performance Test 1-42,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[200]]]
+
+****** comparison: [[[   ]]]
+
+/",6866,135,3,3,https://jsonplaceholder.typicode.com/users,27,0,0
+1773685302774,29,GET /users,200,OK,API Performance Test 1-42,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[200]]]
+
+****** comparison: [[[   ]]]
+
+/",6866,135,3,3,https://jsonplaceholder.typicode.com/users,28,0,0
+1773685302409,395,GET /users,200,OK,API Performance Test 1-41,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[200]]]
+
+****** comparison: [[[   ]]]
+
+/",6871,135,2,2,https://jsonplaceholder.typicode.com/users,395,0,259
+1773685302738,138,GET /users,200,OK,API Performance Test 1-40,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[200]]]
+
+****** comparison: [[[   ]]]
+
+/",6871,135,3,3,https://jsonplaceholder.typicode.com/users,136,0,0
+1773685302804,137,GET /users,200,OK,API Performance Test 1-41,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[200]]]
+
+****** comparison: [[[   ]]]
+
+/",6871,135,3,3,https://jsonplaceholder.typicode.com/users,134,0,0
+1773685302876,136,GET /users,200,OK,API Performance Test 1-40,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[200]]]
+
+****** comparison: [[[   ]]]
+
+/",6871,135,4,4,https://jsonplaceholder.typicode.com/users,133,0,0
+1773685302941,138,GET /users,200,OK,API Performance Test 1-41,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[200]]]
+
+****** comparison: [[[   ]]]
+
+/",6871,135,4,4,https://jsonplaceholder.typicode.com/users,136,0,0
+1773685303009,84,GET /users,200,OK,API Performance Test 1-44,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[200]]]
+
+****** comparison: [[[   ]]]
+
+/",6866,135,4,4,https://jsonplaceholder.typicode.com/users,84,0,53
+1773685303093,29,GET /users,200,OK,API Performance Test 1-44,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[200]]]
+
+****** comparison: [[[   ]]]
+
+/",6866,135,4,4,https://jsonplaceholder.typicode.com/users,29,0,0
+1773685303012,134,GET /users,200,OK,API Performance Test 1-40,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[200]]]
+
+****** comparison: [[[   ]]]
+
+/",6871,135,4,4,https://jsonplaceholder.typicode.com/users,131,0,0
+1773685303123,28,GET /users,200,OK,API Performance Test 1-44,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[200]]]
+
+****** comparison: [[[   ]]]
+
+/",6866,135,3,3,https://jsonplaceholder.typicode.com/users,27,0,0
+1773685303151,29,GET /users,200,OK,API Performance Test 1-44,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[200]]]
+
+****** comparison: [[[   ]]]
+
+/",6866,135,3,3,https://jsonplaceholder.typicode.com/users,29,0,0
+1773685302810,386,GET /users,200,OK,API Performance Test 1-43,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[200]]]
+
+****** comparison: [[[   ]]]
+
+/",6871,135,3,3,https://jsonplaceholder.typicode.com/users,385,0,254
+1773685303180,30,GET /users,200,OK,API Performance Test 1-44,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[200]]]
+
+****** comparison: [[[   ]]]
+
+/",6866,135,4,4,https://jsonplaceholder.typicode.com/users,30,0,0
+1773685303080,137,GET /users,200,OK,API Performance Test 1-41,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[200]]]
+
+****** comparison: [[[   ]]]
+
+/",6871,135,3,3,https://jsonplaceholder.typicode.com/users,133,0,0
+1773685303209,88,GET /users,200,OK,API Performance Test 1-45,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[200]]]
+
+****** comparison: [[[   ]]]
+
+/",6866,135,3,3,https://jsonplaceholder.typicode.com/users,88,0,55
+1773685303297,30,GET /users,200,OK,API Performance Test 1-45,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[200]]]
+
+****** comparison: [[[   ]]]
+
+/",6866,135,3,3,https://jsonplaceholder.typicode.com/users,30,0,0
+1773685303196,134,GET /users,200,OK,API Performance Test 1-43,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[200]]]
+
+****** comparison: [[[   ]]]
+
+/",6871,135,3,3,https://jsonplaceholder.typicode.com/users,131,0,0
+1773685303217,137,GET /users,200,OK,API Performance Test 1-41,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[200]]]
+
+****** comparison: [[[   ]]]
+
+/",6871,135,3,3,https://jsonplaceholder.typicode.com/users,134,0,0
+1773685303328,33,GET /users,200,OK,API Performance Test 1-45,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[200]]]
+
+****** comparison: [[[   ]]]
+
+/",6866,135,2,2,https://jsonplaceholder.typicode.com/users,32,0,0
+1773685303361,32,GET /users,200,OK,API Performance Test 1-45,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[200]]]
+
+****** comparison: [[[   ]]]
+
+/",6866,135,2,2,https://jsonplaceholder.typicode.com/users,32,0,0
+1773685303393,31,GET /users,200,OK,API Performance Test 1-45,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[200]]]
+
+****** comparison: [[[   ]]]
+
+/",6866,135,3,3,https://jsonplaceholder.typicode.com/users,31,0,0
+1773685303330,136,GET /users,200,OK,API Performance Test 1-43,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[200]]]
+
+****** comparison: [[[   ]]]
+
+/",6871,135,2,2,https://jsonplaceholder.typicode.com/users,133,0,0
+1773685303407,82,GET /users,200,OK,API Performance Test 1-46,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[200]]]
+
+****** comparison: [[[   ]]]
+
+/",6866,135,2,2,https://jsonplaceholder.typicode.com/users,82,0,52
+1773685303490,29,GET /users,200,OK,API Performance Test 1-46,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[200]]]
+
+****** comparison: [[[   ]]]
+
+/",6866,135,2,2,https://jsonplaceholder.typicode.com/users,29,0,0
+1773685303520,32,GET /users,200,OK,API Performance Test 1-46,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[200]]]
+
+****** comparison: [[[   ]]]
+
+/",6866,135,2,2,https://jsonplaceholder.typicode.com/users,31,0,0
+1773685303552,29,GET /users,200,OK,API Performance Test 1-46,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[200]]]
+
+****** comparison: [[[   ]]]
+
+/",6866,135,2,2,https://jsonplaceholder.typicode.com/users,28,0,0
+1773685303466,146,GET /users,200,OK,API Performance Test 1-43,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[200]]]
+
+****** comparison: [[[   ]]]
+
+/",6871,135,3,3,https://jsonplaceholder.typicode.com/users,136,0,0
+1773685303581,31,GET /users,200,OK,API Performance Test 1-46,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[200]]]
+
+****** comparison: [[[   ]]]
+
+/",6866,135,3,3,https://jsonplaceholder.typicode.com/users,31,0,0
+1773685303606,89,GET /users,200,OK,API Performance Test 1-47,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[200]]]
+
+****** comparison: [[[   ]]]
+
+/",6866,135,2,2,https://jsonplaceholder.typicode.com/users,89,0,59
+1773685303695,29,GET /users,200,OK,API Performance Test 1-47,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[200]]]
+
+****** comparison: [[[   ]]]
+
+/",6866,135,2,2,https://jsonplaceholder.typicode.com/users,29,0,0
+1773685303725,51,GET /users,200,OK,API Performance Test 1-47,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[200]]]
+
+****** comparison: [[[   ]]]
+
+/",6866,135,2,2,https://jsonplaceholder.typicode.com/users,51,0,0
+1773685303612,164,GET /users,200,OK,API Performance Test 1-43,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[200]]]
+
+****** comparison: [[[   ]]]
+
+/",6871,135,2,2,https://jsonplaceholder.typicode.com/users,164,0,0
+1773685303777,38,GET /users,200,OK,API Performance Test 1-47,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[200]]]
+
+****** comparison: [[[   ]]]
+
+/",6866,135,2,2,https://jsonplaceholder.typicode.com/users,38,0,0
+1773685303816,46,GET /users,200,OK,API Performance Test 1-47,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[200]]]
+
+****** comparison: [[[   ]]]
+
+/",6866,135,2,2,https://jsonplaceholder.typicode.com/users,46,0,0
+1773685303807,93,GET /users,200,OK,API Performance Test 1-48,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[200]]]
+
+****** comparison: [[[   ]]]
+
+/",6866,135,1,1,https://jsonplaceholder.typicode.com/users,93,0,62
+1773685303900,30,GET /users,200,OK,API Performance Test 1-48,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[200]]]
+
+****** comparison: [[[   ]]]
+
+/",6866,135,1,1,https://jsonplaceholder.typicode.com/users,29,0,0
+1773685303930,28,GET /users,200,OK,API Performance Test 1-48,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[200]]]
+
+****** comparison: [[[   ]]]
+
+/",6866,135,1,1,https://jsonplaceholder.typicode.com/users,28,0,0
+1773685303958,30,GET /users,200,OK,API Performance Test 1-48,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[200]]]
+
+****** comparison: [[[   ]]]
+
+/",6866,135,1,1,https://jsonplaceholder.typicode.com/users,29,0,0
+1773685303988,29,GET /users,200,OK,API Performance Test 1-48,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[200]]]
+
+****** comparison: [[[   ]]]
+
+/",6866,135,2,2,https://jsonplaceholder.typicode.com/users,29,0,0
+1773685304209,98,GET /users,200,OK,API Performance Test 1-50,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[200]]]
+
+****** comparison: [[[   ]]]
+
+/",6866,135,2,2,https://jsonplaceholder.typicode.com/users,98,0,68
+1773685304308,30,GET /users,200,OK,API Performance Test 1-50,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[200]]]
+
+****** comparison: [[[   ]]]
+
+/",6866,135,2,2,https://jsonplaceholder.typicode.com/users,30,0,0
+1773685304338,31,GET /users,200,OK,API Performance Test 1-50,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[200]]]
+
+****** comparison: [[[   ]]]
+
+/",6866,135,2,2,https://jsonplaceholder.typicode.com/users,30,0,0
+1773685304369,34,GET /users,200,OK,API Performance Test 1-50,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[200]]]
+
+****** comparison: [[[   ]]]
+
+/",6866,135,2,2,https://jsonplaceholder.typicode.com/users,34,0,0
+1773685304009,394,GET /users,200,OK,API Performance Test 1-49,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[200]]]
+
+****** comparison: [[[   ]]]
+
+/",6871,135,2,2,https://jsonplaceholder.typicode.com/users,394,0,256
+1773685304404,29,GET /users,200,OK,API Performance Test 1-50,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[200]]]
+
+****** comparison: [[[   ]]]
+
+/",6866,135,2,2,https://jsonplaceholder.typicode.com/users,28,0,0
+1773685304404,146,GET /users,200,OK,API Performance Test 1-49,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[200]]]
+
+****** comparison: [[[   ]]]
+
+/",6872,135,1,1,https://jsonplaceholder.typicode.com/users,143,0,0
+1773685304549,135,GET /users,200,OK,API Performance Test 1-49,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[200]]]
+
+****** comparison: [[[   ]]]
+
+/",6871,135,1,1,https://jsonplaceholder.typicode.com/users,132,0,0
+1773685304684,138,GET /users,200,OK,API Performance Test 1-49,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[200]]]
+
+****** comparison: [[[   ]]]
+
+/",6871,135,1,1,https://jsonplaceholder.typicode.com/users,135,0,0
+1773685304822,142,GET /users,200,OK,API Performance Test 1-49,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[200]]]
+
+****** comparison: [[[   ]]]
+
+/",6871,135,1,1,https://jsonplaceholder.typicode.com/users,138,0,0
