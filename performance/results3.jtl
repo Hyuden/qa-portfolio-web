@@ -1,0 +1,286 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1773681633655,222,GET /users,200,OK,API Performance Test 1-1,text,true,,6866,135,2,4,https://jsonplaceholder.typicode.com/users,222,0,186
+1773681633880,31,GET /users,200,OK,API Performance Test 1-1,text,true,,6866,135,2,4,https://jsonplaceholder.typicode.com/users,30,0,0
+1773681633826,88,GET /users,200,OK,API Performance Test 1-2,text,true,,6866,135,2,4,https://jsonplaceholder.typicode.com/users,88,0,59
+1773681633912,30,GET /users,200,OK,API Performance Test 1-1,text,true,,6866,135,2,4,https://jsonplaceholder.typicode.com/users,29,0,0
+1773681633914,29,GET /users,200,OK,API Performance Test 1-2,text,true,,6866,135,2,4,https://jsonplaceholder.typicode.com/users,29,0,0
+1773681633943,30,GET /users,200,OK,API Performance Test 1-1,text,true,,6866,135,2,4,https://jsonplaceholder.typicode.com/users,29,0,0
+1773681633943,30,GET /users,200,OK,API Performance Test 1-2,text,true,,6866,135,2,4,https://jsonplaceholder.typicode.com/users,30,0,0
+1773681633973,31,GET /users,200,OK,API Performance Test 1-2,text,true,,6866,135,2,4,https://jsonplaceholder.typicode.com/users,31,0,0
+1773681633973,31,GET /users,200,OK,API Performance Test 1-1,text,true,,6866,135,2,4,https://jsonplaceholder.typicode.com/users,31,0,0
+1773681634004,29,GET /users,200,OK,API Performance Test 1-2,text,true,,6866,135,2,4,https://jsonplaceholder.typicode.com/users,29,0,0
+1773681633655,412,Get usuario Inexistente - 404,404,Not Found,Unhappy Path test 3-1,text,false,,1203,145,1,3,https://jsonplaceholder.typicode.com/%20/users/99999,411,0,275
+1773681634097,88,Get usuario Inexistente - 404,404,Not Found,Unhappy Path test 3-2,text,false,,1199,145,2,4,https://jsonplaceholder.typicode.com/%20/users/99999,88,0,57
+1773681634026,403,GET /users,200,OK,API Performance Test 1-3,text,true,,6871,135,3,6,https://jsonplaceholder.typicode.com/users,403,0,261
+1773681634426,88,GET /users,200,OK,API Performance Test 1-5,text,true,,6866,135,3,6,https://jsonplaceholder.typicode.com/users,88,0,56
+1773681634514,29,GET /users,200,OK,API Performance Test 1-5,text,true,,6866,135,3,6,https://jsonplaceholder.typicode.com/users,29,0,0
+1773681634429,139,GET /users,200,OK,API Performance Test 1-3,text,true,,6871,135,3,6,https://jsonplaceholder.typicode.com/users,136,0,0
+1773681634544,29,GET /users,200,OK,API Performance Test 1-5,text,true,,6866,135,3,6,https://jsonplaceholder.typicode.com/users,28,0,0
+1773681634573,31,GET /users,200,OK,API Performance Test 1-5,text,true,,6866,135,3,8,https://jsonplaceholder.typicode.com/users,31,0,0
+1773681634228,399,GET /users,200,OK,API Performance Test 1-4,text,true,,6871,135,4,9,https://jsonplaceholder.typicode.com/users,397,0,258
+1773681634604,29,GET /users,200,OK,API Performance Test 1-5,text,true,,6866,135,4,9,https://jsonplaceholder.typicode.com/users,29,0,0
+1773681634568,139,GET /users,200,OK,API Performance Test 1-3,text,true,,6871,135,3,8,https://jsonplaceholder.typicode.com/users,136,0,0
+1773681633655,1094,POST Login - ${username},200,OK,Login Test - CSV Users 2-1,text,true,,119667,251,2,8,https://practicetestautomation.com/practice-test-login/,634,0,327
+1773681634627,135,GET /users,200,OK,API Performance Test 1-4,text,true,,6871,135,3,7,https://jsonplaceholder.typicode.com/users,133,0,0
+1773681634707,134,GET /users,200,OK,API Performance Test 1-3,text,true,,6871,135,4,8,https://jsonplaceholder.typicode.com/users,131,0,0
+1773681634762,137,GET /users,200,OK,API Performance Test 1-4,text,true,,6871,135,4,8,https://jsonplaceholder.typicode.com/users,131,0,0
+1773681634841,145,GET /users,200,OK,API Performance Test 1-3,text,true,,6871,135,4,8,https://jsonplaceholder.typicode.com/users,141,0,0
+1773681634597,396,Get usuario Inexistente - 404,404,Not Found,Unhappy Path test 3-3,text,false,,1203,145,3,7,https://jsonplaceholder.typicode.com/%20/users/99999,396,0,259
+1773681634625,403,GET /users,200,OK,API Performance Test 1-6,text,true,,6872,135,4,8,https://jsonplaceholder.typicode.com/users,403,0,260
+1773681634900,134,GET /users,200,OK,API Performance Test 1-4,text,true,,6871,135,4,8,https://jsonplaceholder.typicode.com/users,131,0,0
+1773681634067,1072,POST Login credenciales invalidas,200,OK,Unhappy Path test 3-1,text,true,,119667,247,4,9,https://practicetestautomation.com/practice-test-login/,617,0,309
+1773681635029,136,GET /users,200,OK,API Performance Test 1-6,text,true,,6871,135,4,9,https://jsonplaceholder.typicode.com/users,133,0,0
+1773681635034,136,GET /users,200,OK,API Performance Test 1-4,text,true,,6871,135,4,9,https://jsonplaceholder.typicode.com/users,133,0,0
+1773681635096,89,Get usuario Inexistente - 404,404,Not Found,Unhappy Path test 3-4,text,false,,1199,145,4,8,https://jsonplaceholder.typicode.com/%20/users/99999,89,0,58
+1773681634827,394,GET /users,200,OK,API Performance Test 1-7,text,true,,6871,135,3,8,https://jsonplaceholder.typicode.com/users,393,0,259
+1773681635140,132,GET endpoint Inexistente -404,404,Not Found,Unhappy Path test 3-1,text,false,,1199,150,4,9,https://jsonplaceholder.typicode.com/endpointquenoeexiste,132,0,0
+1773681634185,1110,POST Login credenciales invalidas,200,OK,Unhappy Path test 3-2,text,true,,119667,247,3,8,https://practicetestautomation.com/practice-test-login/,654,0,309
+1773681635165,138,GET /users,200,OK,API Performance Test 1-6,text,true,,6871,135,4,8,https://jsonplaceholder.typicode.com/users,135,0,0
+1773681635295,29,GET endpoint Inexistente -404,404,Not Found,Unhappy Path test 3-2,text,false,,1203,150,3,8,https://jsonplaceholder.typicode.com/endpointquenoeexiste,29,0,0
+1773681635221,136,GET /users,200,OK,API Performance Test 1-7,text,true,,6871,135,4,7,https://jsonplaceholder.typicode.com/users,134,0,0
+1773681635024,404,GET /users,200,OK,API Performance Test 1-8,text,true,,6872,135,5,8,https://jsonplaceholder.typicode.com/users,404,0,261
+1773681635303,136,GET /users,200,OK,API Performance Test 1-6,text,true,,6871,135,5,8,https://jsonplaceholder.typicode.com/users,133,0,0
+1773681635357,136,GET /users,200,OK,API Performance Test 1-7,text,true,,6871,135,5,8,https://jsonplaceholder.typicode.com/users,132,0,0
+1773681635428,139,GET /users,200,OK,API Performance Test 1-8,text,true,,6871,135,5,8,https://jsonplaceholder.typicode.com/users,136,0,0
+1773681635439,136,GET /users,200,OK,API Performance Test 1-6,text,true,,6871,135,5,8,https://jsonplaceholder.typicode.com/users,134,0,0
+1773681635224,391,GET /users,200,OK,API Performance Test 1-9,text,true,,6871,135,4,9,https://jsonplaceholder.typicode.com/users,390,0,256
+1773681635493,137,GET /users,200,OK,API Performance Test 1-7,text,true,,6871,135,5,10,https://jsonplaceholder.typicode.com/users,134,0,0
+1773681634596,1077,POST Login - ${username},200,OK,Login Test - CSV Users 2-2,text,true,,119667,251,2,10,https://practicetestautomation.com/practice-test-login/,601,0,316
+1773681635567,139,GET /users,200,OK,API Performance Test 1-8,text,true,,6871,135,5,9,https://jsonplaceholder.typicode.com/users,136,0,0
+1773681635623,84,GET /users,200,OK,API Performance Test 1-11,text,true,,6866,135,5,9,https://jsonplaceholder.typicode.com/users,84,0,54
+1773681635707,30,GET /users,200,OK,API Performance Test 1-11,text,true,,6866,135,5,9,https://jsonplaceholder.typicode.com/users,29,0,0
+1773681635615,138,GET /users,200,OK,API Performance Test 1-9,text,true,,6871,135,5,9,https://jsonplaceholder.typicode.com/users,135,0,0
+1773681635630,135,GET /users,200,OK,API Performance Test 1-7,text,true,,6871,135,5,9,https://jsonplaceholder.typicode.com/users,132,0,0
+1773681635737,29,GET /users,200,OK,API Performance Test 1-11,text,true,,6866,135,4,8,https://jsonplaceholder.typicode.com/users,28,0,0
+1773681635766,29,GET /users,200,OK,API Performance Test 1-11,text,true,,6866,135,4,8,https://jsonplaceholder.typicode.com/users,28,0,0
+1773681635424,390,GET /users,200,OK,API Performance Test 1-10,text,true,,6871,135,4,8,https://jsonplaceholder.typicode.com/users,390,0,256
+1773681635795,29,GET /users,200,OK,API Performance Test 1-11,text,true,,6866,135,5,9,https://jsonplaceholder.typicode.com/users,29,0,0
+1773681635706,138,GET /users,200,OK,API Performance Test 1-8,text,true,,6871,135,4,8,https://jsonplaceholder.typicode.com/users,136,0,0
+1773681635753,137,GET /users,200,OK,API Performance Test 1-9,text,true,,6871,135,4,8,https://jsonplaceholder.typicode.com/users,133,0,0
+1773681635814,138,GET /users,200,OK,API Performance Test 1-10,text,true,,6871,135,4,8,https://jsonplaceholder.typicode.com/users,135,0,0
+1773681635845,136,GET /users,200,OK,API Performance Test 1-8,text,true,,6871,135,4,8,https://jsonplaceholder.typicode.com/users,133,0,0
+1773681635597,397,Get usuario Inexistente - 404,404,Not Found,Unhappy Path test 3-5,text,false,,1203,145,3,7,https://jsonplaceholder.typicode.com/%20/users/99999,397,0,260
+1773681635890,136,GET /users,200,OK,API Performance Test 1-9,text,true,,6871,135,4,8,https://jsonplaceholder.typicode.com/users,134,0,0
+1773681634993,1047,POST Login credenciales invalidas,200,OK,Unhappy Path test 3-3,text,true,,119667,247,3,8,https://practicetestautomation.com/practice-test-login/,592,0,310
+1773681635953,134,GET /users,200,OK,API Performance Test 1-10,text,true,,6871,135,4,8,https://jsonplaceholder.typicode.com/users,132,0,0
+1773681636026,134,GET /users,200,OK,API Performance Test 1-9,text,true,,6871,135,4,9,https://jsonplaceholder.typicode.com/users,132,0,0
+1773681636040,136,GET endpoint Inexistente -404,404,Not Found,Unhappy Path test 3-3,text,false,,1199,150,4,8,https://jsonplaceholder.typicode.com/endpointquenoeexiste,136,0,0
+1773681635824,392,GET /users,200,OK,API Performance Test 1-12,text,true,,6871,135,3,7,https://jsonplaceholder.typicode.com/users,392,0,256
+1773681636087,133,GET /users,200,OK,API Performance Test 1-10,text,true,,6871,135,3,7,https://jsonplaceholder.typicode.com/users,131,0,0
+1773681635185,1047,POST Login credenciales invalidas,200,OK,Unhappy Path test 3-4,text,true,,119667,247,3,8,https://practicetestautomation.com/practice-test-login/,591,0,312
+1773681636232,30,GET endpoint Inexistente -404,404,Not Found,Unhappy Path test 3-4,text,false,,1203,150,3,8,https://jsonplaceholder.typicode.com/endpointquenoeexiste,30,0,0
+1773681636216,136,GET /users,200,OK,API Performance Test 1-12,text,true,,6871,135,4,7,https://jsonplaceholder.typicode.com/users,134,0,0
+1773681636220,133,GET /users,200,OK,API Performance Test 1-10,text,true,,6871,135,4,7,https://jsonplaceholder.typicode.com/users,130,0,0
+1773681636024,393,GET /users,200,OK,API Performance Test 1-13,text,true,,6871,135,3,6,https://jsonplaceholder.typicode.com/users,393,0,258
+1773681636352,135,GET /users,200,OK,API Performance Test 1-12,text,true,,6871,135,4,7,https://jsonplaceholder.typicode.com/users,132,0,0
+1773681636098,400,Get usuario Inexistente - 404,404,Not Found,Unhappy Path test 3-6,text,false,,1203,145,2,7,https://jsonplaceholder.typicode.com/%20/users/99999,400,0,259
+1773681636418,136,GET /users,200,OK,API Performance Test 1-13,text,true,,6871,135,4,7,https://jsonplaceholder.typicode.com/users,133,0,0
+1773681636222,393,GET /users,200,OK,API Performance Test 1-14,text,true,,6871,135,4,9,https://jsonplaceholder.typicode.com/users,393,0,258
+1773681636487,133,GET /users,200,OK,API Performance Test 1-12,text,true,,6871,135,4,9,https://jsonplaceholder.typicode.com/users,131,0,0
+1773681635597,1033,POST Login - ${username},200,OK,Login Test - CSV Users 2-3,text,true,,119667,251,2,10,https://practicetestautomation.com/practice-test-login/,578,0,308
+1773681636597,86,Get usuario Inexistente - 404,404,Not Found,Unhappy Path test 3-7,text,false,,1199,145,3,9,https://jsonplaceholder.typicode.com/%20/users/99999,86,0,55
+1773681636554,138,GET /users,200,OK,API Performance Test 1-13,text,true,,6871,135,5,9,https://jsonplaceholder.typicode.com/users,135,0,0
+1773681636615,136,GET /users,200,OK,API Performance Test 1-14,text,true,,6871,135,5,9,https://jsonplaceholder.typicode.com/users,133,0,0
+1773681636621,133,GET /users,200,OK,API Performance Test 1-12,text,true,,6871,135,5,9,https://jsonplaceholder.typicode.com/users,130,0,0
+1773681636693,133,GET /users,200,OK,API Performance Test 1-13,text,true,,6871,135,5,9,https://jsonplaceholder.typicode.com/users,130,0,0
+1773681636424,405,GET /users,200,OK,API Performance Test 1-15,text,true,,6871,135,5,9,https://jsonplaceholder.typicode.com/users,404,0,268
+1773681636751,137,GET /users,200,OK,API Performance Test 1-14,text,true,,6871,135,5,9,https://jsonplaceholder.typicode.com/users,133,0,0
+1773681636823,84,GET /users,200,OK,API Performance Test 1-17,text,true,,6866,135,5,9,https://jsonplaceholder.typicode.com/users,83,0,54
+1773681636907,28,GET /users,200,OK,API Performance Test 1-17,text,true,,6866,135,5,9,https://jsonplaceholder.typicode.com/users,28,0,0
+1773681636826,137,GET /users,200,OK,API Performance Test 1-13,text,true,,6871,135,5,9,https://jsonplaceholder.typicode.com/users,133,0,0
+1773681636935,32,GET /users,200,OK,API Performance Test 1-17,text,true,,6866,135,4,8,https://jsonplaceholder.typicode.com/users,31,0,0
+1773681636829,138,GET /users,200,OK,API Performance Test 1-15,text,true,,6871,135,4,8,https://jsonplaceholder.typicode.com/users,135,0,0
+1773681636967,28,GET /users,200,OK,API Performance Test 1-17,text,true,,6866,135,4,8,https://jsonplaceholder.typicode.com/users,28,0,0
+1773681636623,395,GET /users,200,OK,API Performance Test 1-16,text,true,,6871,135,4,8,https://jsonplaceholder.typicode.com/users,395,0,258
+1773681636888,136,GET /users,200,OK,API Performance Test 1-14,text,true,,6871,135,5,9,https://jsonplaceholder.typicode.com/users,133,0,0
+1773681636995,29,GET /users,200,OK,API Performance Test 1-17,text,true,,6866,135,5,9,https://jsonplaceholder.typicode.com/users,29,0,0
+1773681635994,1055,POST Login credenciales invalidas,200,OK,Unhappy Path test 3-5,text,true,,119667,247,3,8,https://practicetestautomation.com/practice-test-login/,600,0,308
+1773681636968,141,GET /users,200,OK,API Performance Test 1-15,text,true,,6871,135,4,9,https://jsonplaceholder.typicode.com/users,138,0,0
+1773681637019,136,GET /users,200,OK,API Performance Test 1-16,text,true,,6871,135,4,9,https://jsonplaceholder.typicode.com/users,133,0,0
+1773681637025,133,GET /users,200,OK,API Performance Test 1-14,text,true,,6871,135,4,9,https://jsonplaceholder.typicode.com/users,131,0,0
+1773681637096,85,Get usuario Inexistente - 404,404,Not Found,Unhappy Path test 3-8,text,false,,1199,145,4,8,https://jsonplaceholder.typicode.com/%20/users/99999,85,0,55
+1773681637049,133,GET endpoint Inexistente -404,404,Not Found,Unhappy Path test 3-5,text,false,,1199,150,4,8,https://jsonplaceholder.typicode.com/endpointquenoeexiste,133,0,0
+1773681637109,137,GET /users,200,OK,API Performance Test 1-15,text,true,,6871,135,4,8,https://jsonplaceholder.typicode.com/users,134,0,0
+1773681637155,136,GET /users,200,OK,API Performance Test 1-16,text,true,,6871,135,4,8,https://jsonplaceholder.typicode.com/users,134,0,0
+1773681637222,81,GET /users,200,OK,API Performance Test 1-19,text,true,,6866,135,4,8,https://jsonplaceholder.typicode.com/users,81,0,53
+1773681637303,27,GET /users,200,OK,API Performance Test 1-19,text,true,,6866,135,4,8,https://jsonplaceholder.typicode.com/users,27,0,0
+1773681637331,27,GET /users,200,OK,API Performance Test 1-19,text,true,,6866,135,4,8,https://jsonplaceholder.typicode.com/users,27,0,0
+1773681637358,30,GET /users,200,OK,API Performance Test 1-19,text,true,,6866,135,4,8,https://jsonplaceholder.typicode.com/users,28,0,0
+1773681637246,143,GET /users,200,OK,API Performance Test 1-15,text,true,,6872,135,4,8,https://jsonplaceholder.typicode.com/users,139,0,0
+1773681637388,27,GET /users,200,OK,API Performance Test 1-19,text,true,,6866,135,3,7,https://jsonplaceholder.typicode.com/users,27,0,0
+1773681637023,396,GET /users,200,OK,API Performance Test 1-18,text,true,,6871,135,2,6,https://jsonplaceholder.typicode.com/users,396,0,259
+1773681637291,135,GET /users,200,OK,API Performance Test 1-16,text,true,,6871,135,3,7,https://jsonplaceholder.typicode.com/users,132,0,0
+1773681637422,84,GET /users,200,OK,API Performance Test 1-20,text,true,,6866,135,3,7,https://jsonplaceholder.typicode.com/users,84,0,55
+1773681637507,29,GET /users,200,OK,API Performance Test 1-20,text,true,,6866,135,3,7,https://jsonplaceholder.typicode.com/users,28,0,0
+1773681636498,1041,POST Login credenciales invalidas,200,OK,Unhappy Path test 3-6,text,true,,119667,247,3,7,https://practicetestautomation.com/practice-test-login/,586,0,307
+1773681637426,135,GET /users,200,OK,API Performance Test 1-16,text,true,,6871,135,3,7,https://jsonplaceholder.typicode.com/users,134,0,0
+1773681637536,29,GET /users,200,OK,API Performance Test 1-20,text,true,,6866,135,2,6,https://jsonplaceholder.typicode.com/users,29,0,0
+1773681637419,146,GET /users,200,OK,API Performance Test 1-18,text,true,,6872,135,2,6,https://jsonplaceholder.typicode.com/users,144,0,0
+1773681637565,29,GET /users,200,OK,API Performance Test 1-20,text,true,,6866,135,2,6,https://jsonplaceholder.typicode.com/users,29,0,0
+1773681637594,29,GET /users,200,OK,API Performance Test 1-20,text,true,,6866,135,3,9,https://jsonplaceholder.typicode.com/users,29,0,0
+1773681636596,1029,POST Login - ${username},200,OK,Login Test - CSV Users 2-4,text,true,,119667,251,2,8,https://practicetestautomation.com/practice-test-login/,575,0,308
+1773681637539,132,GET endpoint Inexistente -404,404,Not Found,Unhappy Path test 3-6,text,false,,1199,150,4,7,https://jsonplaceholder.typicode.com/endpointquenoeexiste,132,0,0
+1773681637565,137,GET /users,200,OK,API Performance Test 1-18,text,true,,6871,135,2,6,https://jsonplaceholder.typicode.com/users,134,0,0
+1773681636684,1033,POST Login credenciales invalidas,200,OK,Unhappy Path test 3-7,text,true,,119667,247,3,6,https://practicetestautomation.com/practice-test-login/,576,0,307
+1773681637717,31,GET endpoint Inexistente -404,404,Not Found,Unhappy Path test 3-7,text,false,,1203,150,3,6,https://jsonplaceholder.typicode.com/endpointquenoeexiste,31,0,0
+1773681637702,143,GET /users,200,OK,API Performance Test 1-18,text,true,,6871,135,3,6,https://jsonplaceholder.typicode.com/users,139,0,0
+1773681637823,84,GET /users,200,OK,API Performance Test 1-22,text,true,,6866,135,3,6,https://jsonplaceholder.typicode.com/users,83,0,53
+1773681637907,28,GET /users,200,OK,API Performance Test 1-22,text,true,,6866,135,3,6,https://jsonplaceholder.typicode.com/users,28,0,0
+1773681637936,30,GET /users,200,OK,API Performance Test 1-22,text,true,,6866,135,3,6,https://jsonplaceholder.typicode.com/users,29,0,0
+1773681637845,137,GET /users,200,OK,API Performance Test 1-18,text,true,,6871,135,3,6,https://jsonplaceholder.typicode.com/users,134,0,0
+1773681637596,397,Get usuario Inexistente - 404,404,Not Found,Unhappy Path test 3-9,text,false,,1204,145,2,5,https://jsonplaceholder.typicode.com/%20/users/99999,397,0,256
+1773681637966,29,GET /users,200,OK,API Performance Test 1-22,text,true,,6866,135,2,5,https://jsonplaceholder.typicode.com/users,28,0,0
+1773681637622,392,GET /users,200,OK,API Performance Test 1-21,text,true,,6871,135,2,5,https://jsonplaceholder.typicode.com/users,392,0,256
+1773681637996,30,GET /users,200,OK,API Performance Test 1-22,text,true,,6866,135,3,6,https://jsonplaceholder.typicode.com/users,30,0,0
+1773681638015,135,GET /users,200,OK,API Performance Test 1-21,text,true,,6871,135,2,6,https://jsonplaceholder.typicode.com/users,131,0,0
+1773681637181,1054,POST Login credenciales invalidas,200,OK,Unhappy Path test 3-8,text,true,,119667,247,3,7,https://practicetestautomation.com/practice-test-login/,599,0,308
+1773681638235,29,GET endpoint Inexistente -404,404,Not Found,Unhappy Path test 3-8,text,false,,1203,150,3,7,https://jsonplaceholder.typicode.com/endpointquenoeexiste,29,0,0
+1773681638150,133,GET /users,200,OK,API Performance Test 1-21,text,true,,6871,135,3,6,https://jsonplaceholder.typicode.com/users,133,0,0
+1773681638023,393,GET /users,200,OK,API Performance Test 1-23,text,true,,6871,135,3,6,https://jsonplaceholder.typicode.com/users,393,0,258
+1773681638283,133,GET /users,200,OK,API Performance Test 1-21,text,true,,6871,135,3,6,https://jsonplaceholder.typicode.com/users,133,0,0
+1773681638096,389,Get usuario Inexistente - 404,404,Not Found,Unhappy Path test 3-10,text,false,,1203,145,2,7,https://jsonplaceholder.typicode.com/%20/users/99999,389,0,255
+1773681638423,98,GET /users,200,OK,API Performance Test 1-25,text,true,,6866,135,4,7,https://jsonplaceholder.typicode.com/users,98,0,57
+1773681638521,28,GET /users,200,OK,API Performance Test 1-25,text,true,,6866,135,4,7,https://jsonplaceholder.typicode.com/users,28,0,0
+1773681638416,135,GET /users,200,OK,API Performance Test 1-21,text,true,,6871,135,4,7,https://jsonplaceholder.typicode.com/users,131,0,0
+1773681638416,136,GET /users,200,OK,API Performance Test 1-23,text,true,,6871,135,3,6,https://jsonplaceholder.typicode.com/users,132,0,0
+1773681638550,28,GET /users,200,OK,API Performance Test 1-25,text,true,,6866,135,3,6,https://jsonplaceholder.typicode.com/users,28,0,0
+1773681638579,28,GET /users,200,OK,API Performance Test 1-25,text,true,,6866,135,3,6,https://jsonplaceholder.typicode.com/users,28,0,0
+1773681638222,403,GET /users,200,OK,API Performance Test 1-24,text,true,,6871,135,4,7,https://jsonplaceholder.typicode.com/users,403,0,260
+1773681638607,30,GET /users,200,OK,API Performance Test 1-25,text,true,,6866,135,4,7,https://jsonplaceholder.typicode.com/users,29,0,0
+1773681637597,1046,POST Login - ${username},200,OK,Login Test - CSV Users 2-5,text,true,,119667,251,1,6,https://practicetestautomation.com/practice-test-login/,584,0,314
+1773681638552,137,GET /users,200,OK,API Performance Test 1-23,text,true,,6871,135,3,5,https://jsonplaceholder.typicode.com/users,135,0,0
+1773681638626,134,GET /users,200,OK,API Performance Test 1-24,text,true,,6871,135,3,5,https://jsonplaceholder.typicode.com/users,131,0,0
+1773681638691,135,GET /users,200,OK,API Performance Test 1-23,text,true,,6871,135,4,6,https://jsonplaceholder.typicode.com/users,132,0,0
+1773681638761,139,GET /users,200,OK,API Performance Test 1-24,text,true,,6871,135,4,6,https://jsonplaceholder.typicode.com/users,138,0,0
+1773681638826,137,GET /users,200,OK,API Performance Test 1-23,text,true,,6871,135,4,6,https://jsonplaceholder.typicode.com/users,133,0,0
+1773681638622,397,GET /users,200,OK,API Performance Test 1-26,text,true,,6872,135,3,5,https://jsonplaceholder.typicode.com/users,397,0,255
+1773681638900,136,GET /users,200,OK,API Performance Test 1-24,text,true,,6871,135,4,6,https://jsonplaceholder.typicode.com/users,133,0,0
+1773681637993,1074,POST Login credenciales invalidas,200,OK,Unhappy Path test 3-9,text,true,,119667,247,2,6,https://practicetestautomation.com/practice-test-login/,618,0,310
+1773681639020,137,GET /users,200,OK,API Performance Test 1-26,text,true,,6871,135,4,6,https://jsonplaceholder.typicode.com/users,134,0,0
+1773681639036,135,GET /users,200,OK,API Performance Test 1-24,text,true,,6871,135,4,6,https://jsonplaceholder.typicode.com/users,132,0,0
+1773681639068,135,GET endpoint Inexistente -404,404,Not Found,Unhappy Path test 3-9,text,false,,1199,150,2,5,https://jsonplaceholder.typicode.com/endpointquenoeexiste,135,0,0
+1773681638823,395,GET /users,200,OK,API Performance Test 1-27,text,true,,6871,135,3,4,https://jsonplaceholder.typicode.com/users,395,0,258
+1773681639157,134,GET /users,200,OK,API Performance Test 1-26,text,true,,6871,135,4,5,https://jsonplaceholder.typicode.com/users,131,0,0
+1773681639219,138,GET /users,200,OK,API Performance Test 1-27,text,true,,6871,135,4,5,https://jsonplaceholder.typicode.com/users,135,0,0
+1773681639024,391,GET /users,200,OK,API Performance Test 1-28,text,true,,6871,135,4,5,https://jsonplaceholder.typicode.com/users,391,0,257
+1773681639291,133,GET /users,200,OK,API Performance Test 1-26,text,true,,6871,135,5,6,https://jsonplaceholder.typicode.com/users,131,0,0
+1773681639357,134,GET /users,200,OK,API Performance Test 1-27,text,true,,6871,135,5,6,https://jsonplaceholder.typicode.com/users,131,0,0
+1773681638486,1050,POST Login credenciales invalidas,200,OK,Unhappy Path test 3-10,text,true,,119667,247,1,6,https://practicetestautomation.com/practice-test-login/,595,0,313
+1773681639415,142,GET /users,200,OK,API Performance Test 1-28,text,true,,6871,135,5,6,https://jsonplaceholder.typicode.com/users,139,0,0
+1773681639424,137,GET /users,200,OK,API Performance Test 1-26,text,true,,6871,135,5,6,https://jsonplaceholder.typicode.com/users,133,0,0
+1773681639220,391,GET /users,200,OK,API Performance Test 1-29,text,true,,6871,135,4,5,https://jsonplaceholder.typicode.com/users,391,0,255
+1773681639491,134,GET /users,200,OK,API Performance Test 1-27,text,true,,6871,135,5,6,https://jsonplaceholder.typicode.com/users,131,0,0
+1773681639537,130,GET endpoint Inexistente -404,404,Not Found,Unhappy Path test 3-10,text,false,,1199,150,1,6,https://jsonplaceholder.typicode.com/endpointquenoeexiste,130,0,0
+1773681639557,134,GET /users,200,OK,API Performance Test 1-28,text,true,,6871,135,5,5,https://jsonplaceholder.typicode.com/users,131,0,0
+1773681639621,85,GET /users,200,OK,API Performance Test 1-31,text,true,,6866,135,5,5,https://jsonplaceholder.typicode.com/users,85,0,54
+1773681639706,30,GET /users,200,OK,API Performance Test 1-31,text,true,,6866,135,5,5,https://jsonplaceholder.typicode.com/users,29,0,0
+1773681639611,136,GET /users,200,OK,API Performance Test 1-29,text,true,,6871,135,5,5,https://jsonplaceholder.typicode.com/users,133,0,0
+1773681639625,138,GET /users,200,OK,API Performance Test 1-27,text,true,,6871,135,5,5,https://jsonplaceholder.typicode.com/users,135,0,0
+1773681639736,30,GET /users,200,OK,API Performance Test 1-31,text,true,,6866,135,4,4,https://jsonplaceholder.typicode.com/users,30,0,0
+1773681639766,30,GET /users,200,OK,API Performance Test 1-31,text,true,,6866,135,4,4,https://jsonplaceholder.typicode.com/users,29,0,0
+1773681639423,391,GET /users,200,OK,API Performance Test 1-30,text,true,,6871,135,4,4,https://jsonplaceholder.typicode.com/users,391,0,257
+1773681639796,31,GET /users,200,OK,API Performance Test 1-31,text,true,,6866,135,5,5,https://jsonplaceholder.typicode.com/users,30,0,0
+1773681639691,138,GET /users,200,OK,API Performance Test 1-28,text,true,,6871,135,4,4,https://jsonplaceholder.typicode.com/users,134,0,0
+1773681639747,135,GET /users,200,OK,API Performance Test 1-29,text,true,,6871,135,4,4,https://jsonplaceholder.typicode.com/users,132,0,0
+1773681639814,135,GET /users,200,OK,API Performance Test 1-30,text,true,,6871,135,4,4,https://jsonplaceholder.typicode.com/users,133,0,0
+1773681639829,138,GET /users,200,OK,API Performance Test 1-28,text,true,,6871,135,4,4,https://jsonplaceholder.typicode.com/users,134,0,0
+1773681639882,137,GET /users,200,OK,API Performance Test 1-29,text,true,,6871,135,3,3,https://jsonplaceholder.typicode.com/users,134,0,0
+1773681639949,137,GET /users,200,OK,API Performance Test 1-30,text,true,,6871,135,4,4,https://jsonplaceholder.typicode.com/users,135,0,0
+1773681640022,84,GET /users,200,OK,API Performance Test 1-33,text,true,,6866,135,4,4,https://jsonplaceholder.typicode.com/users,84,0,53
+1773681640106,31,GET /users,200,OK,API Performance Test 1-33,text,true,,6866,135,4,4,https://jsonplaceholder.typicode.com/users,31,0,0
+1773681640019,135,GET /users,200,OK,API Performance Test 1-29,text,true,,6871,135,4,4,https://jsonplaceholder.typicode.com/users,132,0,0
+1773681640137,30,GET /users,200,OK,API Performance Test 1-33,text,true,,6866,135,3,3,https://jsonplaceholder.typicode.com/users,29,0,0
+1773681640167,29,GET /users,200,OK,API Performance Test 1-33,text,true,,6866,135,3,3,https://jsonplaceholder.typicode.com/users,29,0,0
+1773681639821,392,GET /users,200,OK,API Performance Test 1-32,text,true,,6871,135,3,3,https://jsonplaceholder.typicode.com/users,392,0,258
+1773681640087,132,GET /users,200,OK,API Performance Test 1-30,text,true,,6871,135,3,3,https://jsonplaceholder.typicode.com/users,130,0,0
+1773681640196,30,GET /users,200,OK,API Performance Test 1-33,text,true,,6866,135,4,4,https://jsonplaceholder.typicode.com/users,29,0,0
+1773681640214,137,GET /users,200,OK,API Performance Test 1-32,text,true,,6871,135,3,3,https://jsonplaceholder.typicode.com/users,134,0,0
+1773681640219,134,GET /users,200,OK,API Performance Test 1-30,text,true,,6871,135,3,3,https://jsonplaceholder.typicode.com/users,132,0,0
+1773681640351,140,GET /users,200,OK,API Performance Test 1-32,text,true,,6872,135,3,3,https://jsonplaceholder.typicode.com/users,139,0,0
+1773681640421,83,GET /users,200,OK,API Performance Test 1-35,text,true,,6866,135,3,3,https://jsonplaceholder.typicode.com/users,83,0,54
+1773681640504,30,GET /users,200,OK,API Performance Test 1-35,text,true,,6866,135,3,3,https://jsonplaceholder.typicode.com/users,30,0,0
+1773681640534,28,GET /users,200,OK,API Performance Test 1-35,text,true,,6866,135,3,3,https://jsonplaceholder.typicode.com/users,28,0,0
+1773681640562,28,GET /users,200,OK,API Performance Test 1-35,text,true,,6866,135,3,3,https://jsonplaceholder.typicode.com/users,28,0,0
+1773681640220,388,GET /users,200,OK,API Performance Test 1-34,text,true,,6871,135,3,3,https://jsonplaceholder.typicode.com/users,388,0,254
+1773681640590,28,GET /users,200,OK,API Performance Test 1-35,text,true,,6866,135,3,3,https://jsonplaceholder.typicode.com/users,28,0,0
+1773681640491,138,GET /users,200,OK,API Performance Test 1-32,text,true,,6871,135,3,3,https://jsonplaceholder.typicode.com/users,135,0,0
+1773681640608,136,GET /users,200,OK,API Performance Test 1-34,text,true,,6871,135,3,3,https://jsonplaceholder.typicode.com/users,132,0,0
+1773681640630,140,GET /users,200,OK,API Performance Test 1-32,text,true,,6871,135,3,3,https://jsonplaceholder.typicode.com/users,137,0,0
+1773681640744,140,GET /users,200,OK,API Performance Test 1-34,text,true,,6871,135,3,3,https://jsonplaceholder.typicode.com/users,136,0,0
+1773681640620,386,GET /users,200,OK,API Performance Test 1-36,text,true,,6871,135,3,3,https://jsonplaceholder.typicode.com/users,386,0,255
+1773681640884,138,GET /users,200,OK,API Performance Test 1-34,text,true,,6871,135,4,4,https://jsonplaceholder.typicode.com/users,135,0,0
+1773681641020,83,GET /users,200,OK,API Performance Test 1-38,text,true,,6866,135,4,4,https://jsonplaceholder.typicode.com/users,82,0,53
+1773681641103,28,GET /users,200,OK,API Performance Test 1-38,text,true,,6866,135,4,4,https://jsonplaceholder.typicode.com/users,28,0,0
+1773681641006,136,GET /users,200,OK,API Performance Test 1-36,text,true,,6871,135,4,4,https://jsonplaceholder.typicode.com/users,133,0,0
+1773681641022,133,GET /users,200,OK,API Performance Test 1-34,text,true,,6871,135,4,4,https://jsonplaceholder.typicode.com/users,130,0,0
+1773681641131,29,GET /users,200,OK,API Performance Test 1-38,text,true,,6866,135,3,3,https://jsonplaceholder.typicode.com/users,28,0,0
+1773681641160,28,GET /users,200,OK,API Performance Test 1-38,text,true,,6866,135,3,3,https://jsonplaceholder.typicode.com/users,27,0,0
+1773681641188,31,GET /users,200,OK,API Performance Test 1-38,text,true,,6866,135,4,4,https://jsonplaceholder.typicode.com/users,30,0,0
+1773681640819,406,GET /users,200,OK,API Performance Test 1-37,text,true,,6872,135,3,3,https://jsonplaceholder.typicode.com/users,406,0,258
+1773681641142,133,GET /users,200,OK,API Performance Test 1-36,text,true,,6871,135,3,3,https://jsonplaceholder.typicode.com/users,131,0,0
+1773681641219,84,GET /users,200,OK,API Performance Test 1-39,text,true,,6866,135,3,3,https://jsonplaceholder.typicode.com/users,82,0,51
+1773681641303,28,GET /users,200,OK,API Performance Test 1-39,text,true,,6866,135,3,3,https://jsonplaceholder.typicode.com/users,27,0,0
+1773681641331,28,GET /users,200,OK,API Performance Test 1-39,text,true,,6866,135,3,3,https://jsonplaceholder.typicode.com/users,28,0,0
+1773681641225,138,GET /users,200,OK,API Performance Test 1-37,text,true,,6871,135,3,3,https://jsonplaceholder.typicode.com/users,134,0,0
+1773681641359,29,GET /users,200,OK,API Performance Test 1-39,text,true,,6866,135,3,3,https://jsonplaceholder.typicode.com/users,28,0,0
+1773681641275,136,GET /users,200,OK,API Performance Test 1-36,text,true,,6871,135,3,3,https://jsonplaceholder.typicode.com/users,132,0,0
+1773681641388,28,GET /users,200,OK,API Performance Test 1-39,text,true,,6866,135,3,3,https://jsonplaceholder.typicode.com/users,28,0,0
+1773681641363,138,GET /users,200,OK,API Performance Test 1-37,text,true,,6871,135,3,3,https://jsonplaceholder.typicode.com/users,136,0,0
+1773681641411,137,GET /users,200,OK,API Performance Test 1-36,text,true,,6871,135,3,3,https://jsonplaceholder.typicode.com/users,134,0,0
+1773681641502,142,GET /users,200,OK,API Performance Test 1-37,text,true,,6871,135,3,3,https://jsonplaceholder.typicode.com/users,140,0,0
+1773681641620,87,GET /users,200,OK,API Performance Test 1-41,text,true,,6866,135,3,3,https://jsonplaceholder.typicode.com/users,87,0,55
+1773681641707,30,GET /users,200,OK,API Performance Test 1-41,text,true,,6866,135,3,3,https://jsonplaceholder.typicode.com/users,29,0,0
+1773681641737,31,GET /users,200,OK,API Performance Test 1-41,text,true,,6866,135,3,3,https://jsonplaceholder.typicode.com/users,31,0,0
+1773681641644,140,GET /users,200,OK,API Performance Test 1-37,text,true,,6871,135,3,3,https://jsonplaceholder.typicode.com/users,137,0,0
+1773681641768,30,GET /users,200,OK,API Performance Test 1-41,text,true,,6866,135,2,2,https://jsonplaceholder.typicode.com/users,30,0,0
+1773681641419,396,GET /users,200,OK,API Performance Test 1-40,text,true,,6871,135,2,2,https://jsonplaceholder.typicode.com/users,396,0,258
+1773681641798,29,GET /users,200,OK,API Performance Test 1-41,text,true,,6866,135,3,3,https://jsonplaceholder.typicode.com/users,29,0,0
+1773681641820,82,GET /users,200,OK,API Performance Test 1-42,text,true,,6866,135,2,2,https://jsonplaceholder.typicode.com/users,82,0,52
+1773681641902,28,GET /users,200,OK,API Performance Test 1-42,text,true,,6866,135,2,2,https://jsonplaceholder.typicode.com/users,28,0,0
+1773681641815,140,GET /users,200,OK,API Performance Test 1-40,text,true,,6871,135,2,2,https://jsonplaceholder.typicode.com/users,136,0,0
+1773681641930,30,GET /users,200,OK,API Performance Test 1-42,text,true,,6866,135,2,2,https://jsonplaceholder.typicode.com/users,29,0,0
+1773681641960,29,GET /users,200,OK,API Performance Test 1-42,text,true,,6866,135,2,2,https://jsonplaceholder.typicode.com/users,28,0,0
+1773681641989,29,GET /users,200,OK,API Performance Test 1-42,text,true,,6866,135,2,2,https://jsonplaceholder.typicode.com/users,29,0,0
+1773681641956,143,GET /users,200,OK,API Performance Test 1-40,text,true,,6871,135,2,2,https://jsonplaceholder.typicode.com/users,141,0,0
+1773681642100,137,GET /users,200,OK,API Performance Test 1-40,text,true,,6871,135,3,3,https://jsonplaceholder.typicode.com/users,135,0,0
+1773681642221,82,GET /users,200,OK,API Performance Test 1-44,text,true,,6866,135,3,3,https://jsonplaceholder.typicode.com/users,81,0,53
+1773681642303,29,GET /users,200,OK,API Performance Test 1-44,text,true,,6866,135,3,3,https://jsonplaceholder.typicode.com/users,29,0,0
+1773681642332,31,GET /users,200,OK,API Performance Test 1-44,text,true,,6866,135,3,3,https://jsonplaceholder.typicode.com/users,30,0,0
+1773681642237,138,GET /users,200,OK,API Performance Test 1-40,text,true,,6871,135,3,3,https://jsonplaceholder.typicode.com/users,137,0,0
+1773681642363,38,GET /users,200,OK,API Performance Test 1-44,text,true,,6866,135,2,2,https://jsonplaceholder.typicode.com/users,38,0,0
+1773681642020,400,GET /users,200,OK,API Performance Test 1-43,text,true,,6871,135,3,3,https://jsonplaceholder.typicode.com/users,400,0,255
+1773681642402,28,GET /users,200,OK,API Performance Test 1-44,text,true,,6866,135,3,3,https://jsonplaceholder.typicode.com/users,28,0,0
+1773681642418,89,GET /users,200,OK,API Performance Test 1-45,text,true,,6866,135,2,2,https://jsonplaceholder.typicode.com/users,89,0,59
+1773681642507,30,GET /users,200,OK,API Performance Test 1-45,text,true,,6866,135,2,2,https://jsonplaceholder.typicode.com/users,29,0,0
+1773681642420,139,GET /users,200,OK,API Performance Test 1-43,text,true,,6871,135,2,2,https://jsonplaceholder.typicode.com/users,135,0,0
+1773681642537,30,GET /users,200,OK,API Performance Test 1-45,text,true,,6866,135,2,2,https://jsonplaceholder.typicode.com/users,30,0,0
+1773681642567,29,GET /users,200,OK,API Performance Test 1-45,text,true,,6866,135,2,2,https://jsonplaceholder.typicode.com/users,29,0,0
+1773681642596,31,GET /users,200,OK,API Performance Test 1-45,text,true,,6866,135,3,3,https://jsonplaceholder.typicode.com/users,30,0,0
+1773681642559,133,GET /users,200,OK,API Performance Test 1-43,text,true,,6871,135,2,2,https://jsonplaceholder.typicode.com/users,130,0,0
+1773681642692,136,GET /users,200,OK,API Performance Test 1-43,text,true,,6871,135,3,3,https://jsonplaceholder.typicode.com/users,134,0,0
+1773681642828,137,GET /users,200,OK,API Performance Test 1-43,text,true,,6871,135,3,3,https://jsonplaceholder.typicode.com/users,134,0,0
+1773681642618,397,GET /users,200,OK,API Performance Test 1-46,text,true,,6871,135,2,2,https://jsonplaceholder.typicode.com/users,397,0,255
+1773681643020,85,GET /users,200,OK,API Performance Test 1-48,text,true,,6866,135,3,3,https://jsonplaceholder.typicode.com/users,84,0,54
+1773681643105,29,GET /users,200,OK,API Performance Test 1-48,text,true,,6866,135,3,3,https://jsonplaceholder.typicode.com/users,29,0,0
+1773681643016,136,GET /users,200,OK,API Performance Test 1-46,text,true,,6871,135,3,3,https://jsonplaceholder.typicode.com/users,133,0,0
+1773681643134,30,GET /users,200,OK,API Performance Test 1-48,text,true,,6866,135,3,3,https://jsonplaceholder.typicode.com/users,30,0,0
+1773681643165,32,GET /users,200,OK,API Performance Test 1-48,text,true,,6866,135,3,3,https://jsonplaceholder.typicode.com/users,32,0,0
+1773681642818,394,GET /users,200,OK,API Performance Test 1-47,text,true,,6871,135,3,3,https://jsonplaceholder.typicode.com/users,394,0,257
+1773681643197,30,GET /users,200,OK,API Performance Test 1-48,text,true,,6866,135,4,4,https://jsonplaceholder.typicode.com/users,29,0,0
+1773681643152,139,GET /users,200,OK,API Performance Test 1-46,text,true,,6871,135,3,3,https://jsonplaceholder.typicode.com/users,136,0,0
+1773681643221,85,GET /users,200,OK,API Performance Test 1-49,text,true,,6866,135,3,3,https://jsonplaceholder.typicode.com/users,85,0,55
+1773681643306,29,GET /users,200,OK,API Performance Test 1-49,text,true,,6866,135,3,3,https://jsonplaceholder.typicode.com/users,29,0,0
+1773681643212,135,GET /users,200,OK,API Performance Test 1-47,text,true,,6871,135,3,3,https://jsonplaceholder.typicode.com/users,132,0,0
+1773681643335,30,GET /users,200,OK,API Performance Test 1-49,text,true,,6866,135,3,3,https://jsonplaceholder.typicode.com/users,29,0,0
+1773681643365,30,GET /users,200,OK,API Performance Test 1-49,text,true,,6866,135,3,3,https://jsonplaceholder.typicode.com/users,29,0,0
+1773681643291,136,GET /users,200,OK,API Performance Test 1-46,text,true,,6871,135,4,4,https://jsonplaceholder.typicode.com/users,136,0,0
+1773681643395,32,GET /users,200,OK,API Performance Test 1-49,text,true,,6866,135,4,4,https://jsonplaceholder.typicode.com/users,32,0,0
+1773681643347,135,GET /users,200,OK,API Performance Test 1-47,text,true,,6871,135,3,3,https://jsonplaceholder.typicode.com/users,135,0,0
+1773681643427,135,GET /users,200,OK,API Performance Test 1-46,text,true,,6871,135,3,3,https://jsonplaceholder.typicode.com/users,132,0,0
+1773681643482,137,GET /users,200,OK,API Performance Test 1-47,text,true,,6871,135,2,2,https://jsonplaceholder.typicode.com/users,134,0,0
+1773681643619,135,GET /users,200,OK,API Performance Test 1-47,text,true,,6871,135,2,2,https://jsonplaceholder.typicode.com/users,133,0,0
+1773681643418,392,GET /users,200,OK,API Performance Test 1-50,text,true,,6871,135,1,1,https://jsonplaceholder.typicode.com/users,392,0,259
+1773681643810,138,GET /users,200,OK,API Performance Test 1-50,text,true,,6871,135,1,1,https://jsonplaceholder.typicode.com/users,134,0,0
+1773681643948,136,GET /users,200,OK,API Performance Test 1-50,text,true,,6871,135,1,1,https://jsonplaceholder.typicode.com/users,134,0,0
+1773681644084,137,GET /users,200,OK,API Performance Test 1-50,text,true,,6871,135,1,1,https://jsonplaceholder.typicode.com/users,135,0,0
+1773681644221,137,GET /users,200,OK,API Performance Test 1-50,text,true,,6871,135,1,1,https://jsonplaceholder.typicode.com/users,133,0,0
